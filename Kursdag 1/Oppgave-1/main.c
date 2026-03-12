@@ -12,16 +12,7 @@
 int main(){
     //Definer pinnen som en utgang
 
-    //Skru LEDen av og på med en jevn periode. 
-    while(1){
-        //LEDen skrues på ved å sette tilsvarende pin i PORTB.OUT registeret til 1
-        PORTB.OUT |= PIN3_bm;
-        _delay_ms(1000);
-        
-        //Deretter settes den til 0 igjen
-        PORTB.OUT &= ~PIN3_bm;
-        _delay_ms(1000);
-    }
+    //Skru LEDen gjentagende av og på med en bestemt periode. 
     
     return 0;
 }

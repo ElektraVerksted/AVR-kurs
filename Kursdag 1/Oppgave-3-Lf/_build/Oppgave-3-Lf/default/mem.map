@@ -1,0 +1,892 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+                              CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o (__do_copy_data)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(cmpsf2.o)
+                              CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o (__ltsf2)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fixunssfsi.o)
+                              CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o (__fixunssfsi)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_cmp.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(cmpsf2.o) (__fp_cmp)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_split3.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fixunssfsi.o) (__fp_splitA)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_zero.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fixunssfsi.o) (__fp_zero)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(gesf2.o)
+                              CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o (__gtsf2)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3.o)
+                              CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o (__mulsf3)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3.o) (__mulsf3x)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_inf.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o) (__fp_inf)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_nan.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o) (__fp_nan)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscA.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o) (__fp_pscA)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscB.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o) (__fp_pscB)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_round.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3.o) (__fp_round)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                              C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o (exit)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o) (_Exit)
+c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+                              c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o) (_exit)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .bss           0x0000000000000000        0x0 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .text          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir\95c1327b7f9c9398220efe456c23d74b\system\src\protected_io.S.o
+ .data          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir\95c1327b7f9c9398220efe456c23d74b\system\src\protected_io.S.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir\95c1327b7f9c9398220efe456c23d74b\system\src\protected_io.S.o
+ .text          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .text.CFD_Enable
+                0x0000000000000000       0x24 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .text.CFD_Disable
+                0x0000000000000000       0x24 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(cmpsf2.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(cmpsf2.o)
+ .stack.descriptors
+                0x0000000000000000       0x6a c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(cmpsf2.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fixunssfsi.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fixunssfsi.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_cmp.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_cmp.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_cmp.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_split3.o)
+ .stack.descriptors
+                0x0000000000000000       0x32 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_zero.o)
+ .stack.descriptors
+                0x0000000000000000       0x2f c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_zero.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(gesf2.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(gesf2.o)
+ .stack.descriptors
+                0x0000000000000000       0x2a c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(gesf2.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o)
+ .stack.descriptors
+                0x0000000000000000       0x31 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_inf.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_inf.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_nan.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscA.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscA.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscB.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscB.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_round.o)
+ .stack.descriptors
+                0x0000000000000000       0x18 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x73 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000804000 0x0000000000004000 rw !x
+eeprom           0x0000000000810000 0x0000000000000200 rw !x
+fuse             0x0000000000820000 0x0000000000000010 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+bootrow          0x0000000000860000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x804000
+                0x0000000000008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+                0x0000000000000001                __MPLAB_DEBUG = 0x1
+                0x0000000000000001                __DEBUG = 0x1
+LOAD CMakeFiles\Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir\95c1327b7f9c9398220efe456c23d74b\system\src\protected_io.S.o
+LOAD CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+LOAD CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+LOAD CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+LOAD CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+LOAD CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+LOAD CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+START GROUP
+LOAD c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a
+LOAD c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a
+LOAD c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a
+LOAD C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4\libavr128db48.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000804000]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x0000000000020000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x0000000000004000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000010]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __BOOTROW_REGION_LENGTH__ = DEFINED (__BOOTROW_REGION_LENGTH__)?__BOOTROW_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0x152
+ *(.vectors)
+ .vectors       0x0000000000000000       0xf4 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x00000000000000f4        0x5 data_init
+                0x00000000000000fa                . = ALIGN (0x2)
+ *fill*         0x00000000000000f9        0x1 
+                0x00000000000000fa                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000000000000fa        0x0 linker stubs
+ *(.trampolines*)
+                0x00000000000000fa                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x00000000000000fa                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000fa                __ctors_start = .
+ *(.ctors)
+                0x00000000000000fa                __ctors_end = .
+                0x00000000000000fa                __dtors_start = .
+ *(.dtors)
+                0x00000000000000fa                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000fa        0x0 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+                0x00000000000000fa                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000fa        0xc C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000106       0x40 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+                0x0000000000000106                __do_copy_data
+                0x0000000000000138                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000146        0x8 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ *(.init9)
+                0x000000000000014e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000000000000014e        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+                0x000000000000014e                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000000000000014e        0x4 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000000152                _etext = .
+
+.data           0x0000000000804000        0x0 load address 0x0000000000000152
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000804000                . = ALIGN (0x2)
+                0x0000000000804000                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000804000        0x0
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x0000000000000152                __data_load_start = LOADADDR (.data)
+                0x0000000000000152                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000804000        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000804000                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse           0x0000000000820000        0x9
+ *(.fuse)
+ .fuse          0x0000000000820000        0x9 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+                0x0000000000820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.bootrow
+ *(.bootrow*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+ .comment       0x000000000000002f       0x2c c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+
+.stack.descriptors.hdr
+                0x0000000000000000       0xe0
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(cmpsf2.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fixunssfsi.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_cmp.o)
+ .stack.descriptors.hdr
+                0x000000000000002a        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_split3.o)
+ .stack.descriptors.hdr
+                0x0000000000000038        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_zero.o)
+ .stack.descriptors.hdr
+                0x0000000000000046        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(gesf2.o)
+ .stack.descriptors.hdr
+                0x0000000000000054        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3.o)
+ .stack.descriptors.hdr
+                0x0000000000000062        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o)
+ .stack.descriptors.hdr
+                0x0000000000000070        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_inf.o)
+ .stack.descriptors.hdr
+                0x000000000000007e        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_nan.o)
+ .stack.descriptors.hdr
+                0x000000000000008c        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscA.o)
+ .stack.descriptors.hdr
+                0x000000000000009a        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscB.o)
+ .stack.descriptors.hdr
+                0x00000000000000a8        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_round.o)
+ .stack.descriptors.hdr
+                0x00000000000000b6        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .stack.descriptors.hdr
+                0x00000000000000c4        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .stack.descriptors.hdr
+                0x00000000000000d2        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(cmpsf2.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fixunssfsi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_cmp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_split3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_zero.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(gesf2.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_inf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_nan.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscA.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscB.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_round.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x138
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles\Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir\95c1327b7f9c9398220efe456c23d74b\system\src\protected_io.S.o
+ .debug_aranges
+                0x0000000000000020       0x20 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+ .debug_aranges
+                0x0000000000000040       0x38 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_aranges
+                0x0000000000000078       0x18 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .debug_aranges
+                0x0000000000000090       0x28 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_aranges
+                0x00000000000000b8       0x60 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_aranges
+                0x0000000000000118       0x20 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x5c18
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x3545 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .debug_info    0x0000000000003545      0x120 CMakeFiles\Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir\95c1327b7f9c9398220efe456c23d74b\system\src\protected_io.S.o
+ .debug_info    0x0000000000003665      0x3d4 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+ .debug_info    0x0000000000003a39      0xb7b CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_info    0x00000000000045b4      0x8a3 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .debug_info    0x0000000000004e57      0x3b2 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_info    0x0000000000005209      0x777 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_info    0x0000000000005980      0x298 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+
+.debug_abbrev   0x0000000000000000     0x36b5
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x3274 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .debug_abbrev  0x0000000000003274       0x14 CMakeFiles\Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir\95c1327b7f9c9398220efe456c23d74b\system\src\protected_io.S.o
+ .debug_abbrev  0x0000000000003288       0xac CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+ .debug_abbrev  0x0000000000003334       0xea CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_abbrev  0x000000000000341e       0x95 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .debug_abbrev  0x00000000000034b3       0xbe CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_abbrev  0x0000000000003571      0x10d CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_abbrev  0x000000000000367e       0x37 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+
+.debug_line     0x0000000000000000      0xf83
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x205 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .debug_line    0x0000000000000205       0xd4 CMakeFiles\Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir\95c1327b7f9c9398220efe456c23d74b\system\src\protected_io.S.o
+ .debug_line    0x00000000000002d9      0x1ef CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+ .debug_line    0x00000000000004c8      0x290 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_line    0x0000000000000758      0x14b CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .debug_line    0x00000000000008a3      0x21a CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_line    0x0000000000000abd      0x3f8 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_line    0x0000000000000eb5       0xce CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+
+.debug_frame    0x0000000000000000      0x368
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x34 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+ .debug_frame   0x0000000000000034       0x94 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_frame   0x00000000000000c8       0x54 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_frame   0x000000000000011c      0x218 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_frame   0x0000000000000334       0x34 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+
+.debug_str      0x0000000000000000     0x1723
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x170f C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .debug_str     0x000000000000170f        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+ .debug_str     0x000000000000170f        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_str     0x000000000000170f        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .debug_str     0x000000000000170f        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_str     0x000000000000170f       0x14 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_str     0x0000000000001723        0x0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0xb0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x10 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+ .debug_ranges  0x0000000000000010       0x28 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_ranges  0x0000000000000038       0x18 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_ranges  0x0000000000000050       0x50 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_ranges  0x00000000000000a0       0x10 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(C:\Users\torbj\Documents\Linjeforening\Elektra\AVR-kurs\Kursdag 1\Oppgave-3-Lf\out\Oppgave-3-Lf\default.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+
+.bss.LED_InterruptHandler
+                0x0000000000804000        0x2
+ .bss.LED_InterruptHandler
+                0x0000000000804000        0x2 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+
+.text.PIN_MANAGER_Initialize
+                0x0000000000000152      0x252
+ .text.PIN_MANAGER_Initialize
+                0x0000000000000152      0x252 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000152                PIN_MANAGER_Initialize
+
+.text.main      0x00000000000003a4      0x1f0
+ .text.main     0x00000000000003a4      0x1f0 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-3-Lf\My_MCC_Config\mcc\main.c.o
+                0x00000000000003a4                main
+
+.text           0x0000000000000594       0xd4
+ .text          0x0000000000000594       0xd4 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3x.o)
+                0x0000000000000594                __mulsf3x
+                0x00000000000005ba                __mulsf3_pse
+
+.text.CLOCK_Initialize
+                0x0000000000000668       0x94
+ .text.CLOCK_Initialize
+                0x0000000000000668       0x94 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+                0x0000000000000668                CLOCK_Initialize
+
+.text.__vector_45
+                0x00000000000006fc       0x84
+ .text.__vector_45
+                0x00000000000006fc       0x84 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+                0x00000000000006fc                __vector_45
+
+.text           0x0000000000000780       0x5e
+ .text          0x0000000000000780       0x5e c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fixunssfsi.o)
+                0x0000000000000780                __fixunssfsi
+
+.text.__vector_8
+                0x00000000000007de       0x48
+ .text.__vector_8
+                0x00000000000007de       0x48 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+                0x00000000000007de                __vector_8
+
+.text.__vector_30
+                0x0000000000000826       0x48
+ .text.__vector_30
+                0x0000000000000826       0x48 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000826                __vector_30
+
+.text.__vector_24
+                0x000000000000086e       0x48
+ .text.__vector_24
+                0x000000000000086e       0x48 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+                0x000000000000086e                __vector_24
+
+.text.__vector_46
+                0x00000000000008b6       0x48
+ .text.__vector_46
+                0x00000000000008b6       0x48 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+                0x00000000000008b6                __vector_46
+
+.text.__vector_35
+                0x00000000000008fe       0x48
+ .text.__vector_35
+                0x00000000000008fe       0x48 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+                0x00000000000008fe                __vector_35
+
+.text           0x0000000000000946       0x48
+ .text          0x0000000000000946       0x48 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_cmp.o)
+                0x0000000000000946                __fp_cmp
+
+.text           0x000000000000098e       0x44
+ .text          0x000000000000098e       0x44 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_split3.o)
+                0x000000000000098e                __fp_split3
+                0x000000000000099e                __fp_splitA
+
+.text.ccp_write_io
+                0x00000000000009d2       0x2c
+ .text.ccp_write_io
+                0x00000000000009d2       0x2c CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\clock.c.o
+
+.text.ccp_write_io
+                0x00000000000009fe       0x2c
+ .text.ccp_write_io
+                0x00000000000009fe       0x2c CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+
+.text.CPUINT_Initialize
+                0x0000000000000a2a       0x2a
+ .text.CPUINT_Initialize
+                0x0000000000000a2a       0x2a CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\interrupt.c.o
+                0x0000000000000a2a                CPUINT_Initialize
+
+.text.LED_SetInterruptHandler
+                0x0000000000000a54       0x26
+ .text.LED_SetInterruptHandler
+                0x0000000000000a54       0x26 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000a54                LED_SetInterruptHandler
+
+.text           0x0000000000000a7a       0x22
+ .text          0x0000000000000a7a       0x22 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_round.o)
+                0x0000000000000a7a                __fp_round
+
+.text.SYSTEM_Initialize
+                0x0000000000000a9c       0x1c
+ .text.SYSTEM_Initialize
+                0x0000000000000a9c       0x1c CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\system.c.o
+                0x0000000000000a9c                SYSTEM_Initialize
+
+.text.exit      0x0000000000000ab8       0x16
+ .text.exit     0x0000000000000ab8       0x16 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x0000000000000ab8                exit
+
+.text.LED_DefaultInterruptHandler
+                0x0000000000000ace       0x10
+ .text.LED_DefaultInterruptHandler
+                0x0000000000000ace       0x10 CMakeFiles\Oppgave_3_Lf_default_default_XC8_compile.dir\d7679daad32066ee49305b8c75538473\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000ace                LED_DefaultInterruptHandler
+
+.text           0x0000000000000ade        0xe
+ .text          0x0000000000000ade        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_zero.o)
+                0x0000000000000ade                __fp_zero
+                0x0000000000000ae0                __fp_szero
+
+.text           0x0000000000000aec        0xe
+ .text          0x0000000000000aec        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscA.o)
+                0x0000000000000aec                __fp_pscA
+
+.text           0x0000000000000afa        0xe
+ .text          0x0000000000000afa        0xe c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_pscB.o)
+                0x0000000000000afa                __fp_pscB
+
+.text           0x0000000000000b08        0xc
+ .text          0x0000000000000b08        0xc c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_inf.o)
+                0x0000000000000b08                __fp_inf
+
+.text.protected_write_io
+                0x0000000000000b14        0xa
+ .text.protected_write_io
+                0x0000000000000b14        0xa CMakeFiles\Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir\95c1327b7f9c9398220efe456c23d74b\system\src\protected_io.S.o
+                0x0000000000000b14                protected_write_io
+
+.text           0x0000000000000b1e        0xa
+ .text          0x0000000000000b1e        0xa c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(cmpsf2.o)
+                0x0000000000000b1e                __nesf2
+                0x0000000000000b1e                __eqsf2
+                0x0000000000000b1e                __cmpsf2
+                0x0000000000000b1e                __ltsf2
+                0x0000000000000b1e                __lesf2
+
+.text           0x0000000000000b28        0xa
+ .text          0x0000000000000b28        0xa c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(gesf2.o)
+                0x0000000000000b28                __gesf2
+                0x0000000000000b28                __gtsf2
+
+.text           0x0000000000000b32        0x8
+ .text          0x0000000000000b32        0x8 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(mulsf3.o)
+                0x0000000000000b32                __mulsf3
+
+.text           0x0000000000000b3a        0x6
+ .text          0x0000000000000b3a        0x6 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a(fp_nan.o)
+                0x0000000000000b3a                __fp_nan
+
+.text           0x0000000000000b40        0x4
+ .text          0x0000000000000b40        0x4 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+                0x0000000000000b40                __vector_38
+                0x0000000000000b40                __vector_22
+                0x0000000000000b40                __vector_28
+                0x0000000000000b40                __vector_1
+                0x0000000000000b40                __vector_32
+                0x0000000000000b40                __vector_34
+                0x0000000000000b40                __vector_12
+                0x0000000000000b40                __vector_55
+                0x0000000000000b40                __bad_interrupt
+                0x0000000000000b40                __vector_6
+                0x0000000000000b40                __vector_31
+                0x0000000000000b40                __vector_39
+                0x0000000000000b40                __vector_3
+                0x0000000000000b40                __vector_23
+                0x0000000000000b40                __vector_25
+                0x0000000000000b40                __vector_11
+                0x0000000000000b40                __vector_54
+                0x0000000000000b40                __vector_13
+                0x0000000000000b40                __vector_17
+                0x0000000000000b40                __vector_19
+                0x0000000000000b40                __vector_56
+                0x0000000000000b40                __vector_7
+                0x0000000000000b40                __vector_49
+                0x0000000000000b40                __vector_41
+                0x0000000000000b40                __vector_43
+                0x0000000000000b40                __vector_27
+                0x0000000000000b40                __vector_5
+                0x0000000000000b40                __vector_33
+                0x0000000000000b40                __vector_47
+                0x0000000000000b40                __vector_52
+                0x0000000000000b40                __vector_37
+                0x0000000000000b40                __vector_4
+                0x0000000000000b40                __vector_44
+                0x0000000000000b40                __vector_51
+                0x0000000000000b40                __vector_9
+                0x0000000000000b40                __vector_2
+                0x0000000000000b40                __vector_21
+                0x0000000000000b40                __vector_15
+                0x0000000000000b40                __vector_36
+                0x0000000000000b40                __vector_58
+                0x0000000000000b40                __vector_29
+                0x0000000000000b40                __vector_60
+                0x0000000000000b40                __vector_40
+                0x0000000000000b40                __vector_26
+                0x0000000000000b40                __vector_48
+                0x0000000000000b40                __vector_14
+                0x0000000000000b40                __vector_57
+                0x0000000000000b40                __vector_53
+                0x0000000000000b40                __vector_10
+                0x0000000000000b40                __vector_50
+                0x0000000000000b40                __vector_16
+                0x0000000000000b40                __vector_59
+                0x0000000000000b40                __vector_18
+                0x0000000000000b40                __vector_20
+                0x0000000000000b40                __vector_42
+
+.text._Exit     0x0000000000000b44        0x4
+ .text._Exit    0x0000000000000b44        0x4 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+                0x0000000000000b44                _Exit
+
+.text.__dummy_fini
+                0x0000000000000b48        0x2
+ .text.__dummy_fini
+                0x0000000000000b48        0x2 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x0000000000000b48                _fini
+
+.text.__dummy_funcs_on_exit
+                0x0000000000000b4a        0x2
+ .text.__dummy_funcs_on_exit
+                0x0000000000000b4a        0x2 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x0000000000000b4a                __funcs_on_exit
+
+.text.__dummy_simulator_exit
+                0x0000000000000b4c        0x2
+ .text.__dummy_simulator_exit
+                0x0000000000000b4c        0x2 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x0000000000000b4c                __simulator_exit
