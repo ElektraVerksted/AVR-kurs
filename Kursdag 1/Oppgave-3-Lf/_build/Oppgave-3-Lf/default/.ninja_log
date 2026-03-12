@@ -1,0 +1,17 @@
+# ninja log v7
+69	703	7950141504521067	CMakeFiles/Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir/95c1327b7f9c9398220efe456c23d74b/system/src/protected_io.S.o	e6d70e8e17966cc0
+107	741	7950141504896466	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/d7679daad32066ee49305b8c75538473/mcc/mcc_generated_files/system/src/config_bits.c.o	365eda273181d10f
+123	758	7950141505056421	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/d7679daad32066ee49305b8c75538473/mcc/mcc_generated_files/system/src/interrupt.c.o	36fb923ddd117934
+93	771	7950141504746270	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/d7679daad32066ee49305b8c75538473/mcc/mcc_generated_files/system/src/clock.c.o	5955b9666706d59b
+82	827	7950141504641180	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/94db0fc7b45eefcefec4b33d70c1bfaa/Kursdag_1/Oppgave-3-Lf/My_MCC_Config/mcc/main.c.o	98a9ad97e5115c72
+166	836	7950141505486474	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/d7679daad32066ee49305b8c75538473/mcc/mcc_generated_files/system/src/system.c.o	37b6087e5d4d5f8a
+142	842	7950141505246463	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/d7679daad32066ee49305b8c75538473/mcc/mcc_generated_files/system/src/pins.c.o	9aa38e920bd76d50
+842	1845	7950141512248551	C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-3-Lf/out/Oppgave-3-Lf/default.elf	fab649aab734b50b
+59	803	7950142835188641	CMakeFiles/Oppgave_3_Lf_default_default_XC8_assemblePreprocess.dir/95c1327b7f9c9398220efe456c23d74b/system/src/protected_io.S.o	e6d70e8e17966cc0
+106	848	7950142835660170	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/d7679daad32066ee49305b8c75538473/mcc/mcc_generated_files/system/src/config_bits.c.o	365eda273181d10f
+89	863	7950142835488800	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/d7679daad32066ee49305b8c75538473/mcc/mcc_generated_files/system/src/clock.c.o	5955b9666706d59b
+121	868	7950142835815674	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/d7679daad32066ee49305b8c75538473/mcc/mcc_generated_files/system/src/interrupt.c.o	36fb923ddd117934
+139	879	7950142835990101	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/d7679daad32066ee49305b8c75538473/mcc/mcc_generated_files/system/src/system.c.o	37b6087e5d4d5f8a
+132	918	7950142835915587	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/d7679daad32066ee49305b8c75538473/mcc/mcc_generated_files/system/src/pins.c.o	9aa38e920bd76d50
+75	922	7950142835348709	CMakeFiles/Oppgave_3_Lf_default_default_XC8_compile.dir/94db0fc7b45eefcefec4b33d70c1bfaa/Kursdag_1/Oppgave-3-Lf/My_MCC_Config/mcc/main.c.o	98a9ad97e5115c72
+922	1667	7950142843808852	C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-3-Lf/out/Oppgave-3-Lf/default.elf	fab649aab734b50b
