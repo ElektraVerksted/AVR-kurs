@@ -12,10 +12,12 @@
 
  
 int main() {
-
+    //Definer en pin som ingang som er koblet til SW0
     PORTB.DIRSET = PIN3_bm;
+    // Definer en pin som utgang som er koblet til LED0
     PORTB.DIRCLR = PIN2_bm;
     
+    //Skru av LED0 hvis knappen ikke er trykket ned, og skru på LED0 hvis knappen er trykket ned
     while(1){
         if (PORTB.IN & PIN2_bm){
             PORTB.OUTSET = PIN3_bm;
