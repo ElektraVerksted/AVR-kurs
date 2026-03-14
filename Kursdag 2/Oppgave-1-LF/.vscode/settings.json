@@ -1,0 +1,14 @@
+{
+    "mplab.clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}\\_build\\test_1000000\\default"
+    ],
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v3.10\\bin\\xc8-clangd.exe",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "cmake.sourceDirectory": "C:/Users/husev/MPLABProjects/test_1000000/cmake/test_1000000/default",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "mplab-core-da"
+    ]
+}

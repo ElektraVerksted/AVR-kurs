@@ -1,0 +1,1430 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+                              CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o (__do_copy_data)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                              C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o (exit)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o)
+                              CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o (_printf_cdopuxX)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o) (__fmt_d_needed)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_o.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o) (__fmt_o_needed)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o) (__fmt_s_needed)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o) (__cvt_u)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_x.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o) (__fmt_x_needed)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__pop_int.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o) (__pop_int_needed)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o) (__pad)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(fputc.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o) (fputc)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+                              CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o (_stdout)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(strlen.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o) (strlen)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(tolower.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o) (tolower)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(toupper.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_x.o) (toupper)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(errno.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o) (__errno_val)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o) (_Exit)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__int_vfprintf.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o) (__vfprintf)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o) (__udivmodsi4)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o) (_exit)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o) (__prologue_saves__)
+c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+                              c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+__stdout_used       0x2               c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+__errno_val         0x2               c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(errno.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .bss           0x0000000000000000        0x0 C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_assemblePreprocess.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\system\src\protected_io.S.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_assemblePreprocess.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\system\src\protected_io.S.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_assemblePreprocess.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\system\src\protected_io.S.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_Deinitialize
+                0x0000000000000000       0x8c CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_Disable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ConversionDoneInterruptEnable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ConversionDoneInterruptDisable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ConversionDoneCallbackRegister
+                0x0000000000000000       0x26 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ChannelSelectAndConvert
+                0x0000000000000000       0x50 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ResolutionGet
+                0x0000000000000000       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ConversionStop
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_SampleRepeatCountSet
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ComputationModeSet
+                0x0000000000000000       0x44 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_UpperThresholdSet
+                0x0000000000000000       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_LowerThresholdSet
+                0x0000000000000000       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ThresholdModeSet
+                0x0000000000000000       0x20 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ThresholdInterruptEnable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ThresholdInterruptDisable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_AccumulatedResultGet
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ThresholdCallbackRegister
+                0x0000000000000000       0x26 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ContinuousConversionEnable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ContinuousConversionDisable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_AutoTriggerEnable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_AutoTriggerDisable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_IsConversionDoneInterruptFlagSet
+                0x0000000000000000       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ConversionDoneInterruptFlagClear
+                0x0000000000000000       0x1a CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_IsThresholdInterruptFlagSet
+                0x0000000000000000       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text.ADC0_ThresholdInterruptFlagClear
+                0x0000000000000000       0x1a CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\examples\UART_Example\uart_example.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\examples\UART_Example\uart_example.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\examples\UART_Example\uart_example.c.o
+ .debug_line    0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\examples\UART_Example\uart_example.c.o
+ .debug_str     0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\examples\UART_Example\uart_example.c.o
+ .comment       0x0000000000000000       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\examples\UART_Example\uart_example.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .text.CFD_Enable
+                0x0000000000000000       0x24 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .text.CFD_Disable
+                0x0000000000000000       0x24 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .rodata.UART   0x0000000000000000       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_Deinitialize
+                0x0000000000000000       0x52 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_Enable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_Disable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_TransmitEnable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_TransmitDisable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_ReceiveEnable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_ReceiveDisable
+                0x0000000000000000       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_AutoBaudSet
+                0x0000000000000000       0x66 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_AutoBaudQuery
+                0x0000000000000000       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_IsAutoBaudDetectError
+                0x0000000000000000       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_AutoBaudDetectErrorReset
+                0x0000000000000000       0x3e CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_IsRxReady
+                0x0000000000000000       0x1c CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_IsTxDone
+                0x0000000000000000       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_ErrorGet
+                0x0000000000000000       0xc0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text.USART3_Read
+                0x0000000000000000       0x16 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .text          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+ .data          0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+ .bss           0x0000000000000000        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x73 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o)
+ .stack.descriptors
+                0x0000000000000000       0x3a c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o)
+ .text.__sio_printf_doux
+                0x0000000000000000       0x1a c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_o.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_o.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_o.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_o.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o)
+ .stack.descriptors
+                0x0000000000000000       0x2a c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_x.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_x.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_x.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_x.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__pop_int.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__pop_int.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__pop_int.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__pop_int.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+ .stack.descriptors
+                0x0000000000000000       0x91 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(fputc.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(fputc.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(fputc.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(fputc.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+ .stack.descriptors
+                0x0000000000000000       0x1b c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+ .text.__init_stdout
+                0x0000000000000000       0x1e c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+ .data.f        0x0000000000000000       0x10 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+ COMMON         0x0000000000000000        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(strlen.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(strlen.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(strlen.o)
+ .stack.descriptors
+                0x0000000000000000       0x14 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(strlen.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(tolower.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(tolower.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(tolower.o)
+ .stack.descriptors
+                0x0000000000000000       0x2e c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(tolower.o)
+ .text.__tolower_l
+                0x0000000000000000        0x6 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(tolower.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(toupper.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(toupper.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(toupper.o)
+ .stack.descriptors
+                0x0000000000000000       0x2e c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(toupper.o)
+ .text.__toupper_l
+                0x0000000000000000        0x6 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(toupper.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(errno.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(errno.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(errno.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__int_vfprintf.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__int_vfprintf.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__int_vfprintf.o)
+ .stack.descriptors
+                0x0000000000000000       0x18 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__int_vfprintf.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000804000 0x0000000000004000 rw !x
+eeprom           0x0000000000810000 0x0000000000000200 rw !x
+fuse             0x0000000000820000 0x0000000000000010 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+bootrow          0x0000000000860000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x804000
+                0x0000000000008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+                0x0000000000000001                __MPLAB_DEBUG = 0x1
+                0x0000000000000001                __DEBUG = 0x1
+LOAD CMakeFiles\test_1000000_default_default_XC8_assemblePreprocess.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\system\src\protected_io.S.o
+LOAD CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+LOAD CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+LOAD CMakeFiles\test_1000000_default_default_XC8_compile.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\examples\UART_Example\uart_example.c.o
+LOAD CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+LOAD CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+LOAD CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+LOAD CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+LOAD CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+LOAD CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+LOAD CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+START GROUP
+LOAD c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a
+LOAD c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libm.a
+LOAD c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a
+LOAD C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4\libavr128db48.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000804000]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x0000000000020000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x0000000000004000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000010]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __BOOTROW_REGION_LENGTH__ = DEFINED (__BOOTROW_REGION_LENGTH__)?__BOOTROW_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0x16a
+ *(.vectors)
+ .vectors       0x0000000000000000       0xf4 C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x00000000000000f4       0x1d data_init
+                0x0000000000000112                . = ALIGN (0x2)
+ *fill*         0x0000000000000111        0x1 
+                0x0000000000000112                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000112        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000112                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x0000000000000112                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000112                __ctors_start = .
+ *(.ctors)
+                0x0000000000000112                __ctors_end = .
+                0x0000000000000112                __dtors_start = .
+ *(.dtors)
+                0x0000000000000112                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000112        0x0 C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+                0x0000000000000112                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000112        0xc C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000000000011e       0x40 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_copy_data.o)
+                0x000000000000011e                __do_copy_data
+                0x0000000000000150                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000015e        0x8 C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ *(.init9)
+                0x0000000000000166                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000166        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+                0x0000000000000166                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000000166        0x4 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000000000000016a                _etext = .
+
+.data           0x0000000000804000        0x0 load address 0x000000000000016a
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000804000                . = ALIGN (0x2)
+                0x0000000000804000                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000804000        0x2
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+ COMMON         0x0000000000804000        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(errno.o)
+                0x0000000000804000                __errno_val
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x000000000000016a                __data_load_start = LOADADDR (.data)
+                0x000000000000016a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000804002        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000804002                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse           0x0000000000820000        0x9
+ *(.fuse)
+ .fuse          0x0000000000820000        0x9 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+                0x0000000000820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.bootrow
+ *(.bootrow*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .comment       0x000000000000002f       0x30 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+ .comment       0x000000000000002f       0x2c c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_o.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_x.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__pop_int.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(fputc.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(strlen.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(tolower.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(toupper.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(errno.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .comment       0x000000000000005b       0x2d c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__int_vfprintf.o)
+
+.stack.descriptors.hdr
+                0x0000000000000000      0x10a
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o)
+ .stack.descriptors.hdr
+                0x000000000000002a        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_o.o)
+ .stack.descriptors.hdr
+                0x0000000000000038        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o)
+ .stack.descriptors.hdr
+                0x0000000000000046        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o)
+ .stack.descriptors.hdr
+                0x0000000000000054        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_x.o)
+ .stack.descriptors.hdr
+                0x0000000000000062        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__pop_int.o)
+ .stack.descriptors.hdr
+                0x0000000000000070        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+ .stack.descriptors.hdr
+                0x000000000000007e        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(fputc.o)
+ .stack.descriptors.hdr
+                0x000000000000008c        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+ .stack.descriptors.hdr
+                0x000000000000009a        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(strlen.o)
+ .stack.descriptors.hdr
+                0x00000000000000a8        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(tolower.o)
+ .stack.descriptors.hdr
+                0x00000000000000b6        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(toupper.o)
+ .stack.descriptors.hdr
+                0x00000000000000c4        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(errno.o)
+ .stack.descriptors.hdr
+                0x00000000000000d2        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .stack.descriptors.hdr
+                0x00000000000000e0        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__int_vfprintf.o)
+ .stack.descriptors.hdr
+                0x00000000000000ee        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+ .stack.descriptors.hdr
+                0x00000000000000fc        0xe c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_exit.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_o.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_x.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__pop_int.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(fputc.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(strlen.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(tolower.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(toupper.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(errno.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__int_vfprintf.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x398
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles\test_1000000_default_default_XC8_assemblePreprocess.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\system\src\protected_io.S.o
+ .debug_aranges
+                0x0000000000000020       0x20 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+ .debug_aranges
+                0x0000000000000040      0x120 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .debug_aranges
+                0x0000000000000160       0x38 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_aranges
+                0x0000000000000198       0x18 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .debug_aranges
+                0x00000000000001b0       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_aranges
+                0x00000000000001d8       0xa0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_aranges
+                0x0000000000000278       0x20 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .debug_aranges
+                0x0000000000000298       0xe0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .debug_aranges
+                0x0000000000000378       0x20 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x8ad4
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x3545 C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .debug_info    0x0000000000003545       0xe0 CMakeFiles\test_1000000_default_default_XC8_assemblePreprocess.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\system\src\protected_io.S.o
+ .debug_info    0x0000000000003625      0x59e CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+ .debug_info    0x0000000000003bc3     0x19e1 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .debug_info    0x00000000000055a4      0xb5b CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_info    0x00000000000060ff      0x883 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .debug_info    0x0000000000006982      0x392 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_info    0x0000000000006d14      0x992 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_info    0x00000000000076a6      0x293 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .debug_info    0x0000000000007939      0xe58 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .debug_info    0x0000000000008791      0x343 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+
+.debug_abbrev   0x0000000000000000     0x3b9f
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x3274 C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .debug_abbrev  0x0000000000003274       0x14 CMakeFiles\test_1000000_default_default_XC8_assemblePreprocess.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\system\src\protected_io.S.o
+ .debug_abbrev  0x0000000000003288       0xba CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+ .debug_abbrev  0x0000000000003342      0x1a9 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .debug_abbrev  0x00000000000034eb       0xea CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_abbrev  0x00000000000035d5       0x95 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .debug_abbrev  0x000000000000366a       0xbe CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_abbrev  0x0000000000003728      0x10d CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_abbrev  0x0000000000003835       0x37 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .debug_abbrev  0x000000000000386c      0x2a9 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .debug_abbrev  0x0000000000003b15       0x8a CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+
+.debug_line     0x0000000000000000     0x1d8f
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x205 C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .debug_line    0x0000000000000205       0xb4 CMakeFiles\test_1000000_default_default_XC8_assemblePreprocess.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\system\src\protected_io.S.o
+ .debug_line    0x00000000000002b9      0x1d1 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+ .debug_line    0x000000000000048a      0x69d CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .debug_line    0x0000000000000b27      0x250 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_line    0x0000000000000d77      0x12b CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .debug_line    0x0000000000000ea2      0x1da CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_line    0x000000000000107c      0x4f0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_line    0x000000000000156c       0xc0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .debug_line    0x000000000000162c      0x613 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .debug_line    0x0000000000001c3f      0x150 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+
+.debug_frame    0x0000000000000000      0xcb0
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x34 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+ .debug_frame   0x0000000000000034      0x4bc CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .debug_frame   0x00000000000004f0       0x94 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_frame   0x0000000000000584       0x54 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_frame   0x00000000000005d8      0x33c CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_frame   0x0000000000000914       0x34 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .debug_frame   0x0000000000000948      0x334 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .debug_frame   0x0000000000000c7c       0x34 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+
+.debug_str      0x0000000000000000     0x174d
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x170f C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+ .debug_str     0x000000000000170f        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+ .debug_str     0x000000000000170f        0x9 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .debug_str     0x0000000000001718        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_str     0x0000000000001718        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\config_bits.c.o
+ .debug_str     0x0000000000001718        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_str     0x0000000000001718       0x25 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_str     0x000000000000173d        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .debug_str     0x000000000000173d       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .debug_str     0x000000000000174d        0x0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x2e0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+ .debug_ranges  0x0000000000000010      0x110 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+ .debug_ranges  0x0000000000000120       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+ .debug_ranges  0x0000000000000148       0x18 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+ .debug_ranges  0x0000000000000160       0x90 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+ .debug_ranges  0x00000000000001f0       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+ .debug_ranges  0x0000000000000200       0xd0 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+ .debug_ranges  0x00000000000002d0       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(C:\Users\husev\AVR-kurs\Kursdag 2\Oppgave-1-LF\out\test_1000000\default.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+
+.bss.ADC0_ConversionDoneCallback
+                0x000000000080403a        0x2
+ .bss.ADC0_ConversionDoneCallback
+                0x000000000080403a        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+
+.bss.ADC0_ThresholdCallback
+                0x000000000080403c        0x2
+ .bss.ADC0_ThresholdCallback
+                0x000000000080403c        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+
+.bss.IO_PB1_InterruptHandler
+                0x000000000080403e        0x2
+ .bss.IO_PB1_InterruptHandler
+                0x000000000080403e        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+
+.bss.IO_PB0_InterruptHandler
+                0x0000000000804040        0x2
+ .bss.IO_PB0_InterruptHandler
+                0x0000000000804040        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+
+.bss.IO_PD0_InterruptHandler
+                0x0000000000804042        0x2
+ .bss.IO_PD0_InterruptHandler
+                0x0000000000804042        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+
+.bss.IO_PD6_InterruptHandler
+                0x0000000000804044        0x2
+ .bss.IO_PD6_InterruptHandler
+                0x0000000000804044        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+
+.bss.LED_InterruptHandler
+                0x0000000000804046        0x2
+ .bss.LED_InterruptHandler
+                0x0000000000804046        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+
+.bss.usart3RxLastError
+                0x0000000000804048        0x2
+ .bss.usart3RxLastError
+                0x0000000000804048        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+
+.bss.USART3_FramingErrorHandler
+                0x000000000080404a        0x2
+ .bss.USART3_FramingErrorHandler
+                0x000000000080404a        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+
+.bss.USART3_OverrunErrorHandler
+                0x000000000080404c        0x2
+ .bss.USART3_OverrunErrorHandler
+                0x000000000080404c        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+
+.bss.USART3_ParityErrorHandler
+                0x000000000080404e        0x2
+ .bss.USART3_ParityErrorHandler
+                0x000000000080404e        0x2 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+
+.bss.__stdout   0x0000000000804052        0x2
+ .bss.__stdout  0x0000000000804052        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+
+.text.vfpfcnvrt
+                0x000000000000016a      0x3fc
+ .text.vfpfcnvrt
+                0x000000000000016a      0x3fc c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+                0x000000000000016a                vfpfcnvrt
+
+.text.PIN_MANAGER_Initialize
+                0x0000000000000566      0x274
+ .text.PIN_MANAGER_Initialize
+                0x0000000000000566      0x274 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000566                PIN_MANAGER_Initialize
+
+.text.__fmt_x   0x00000000000007da      0x1dc
+ .text.__fmt_x  0x00000000000007da      0x1dc c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_x.o)
+                0x00000000000007da                __fmt_x_needed
+                0x00000000000007da                __fmt_x
+
+.text.__fmt_d   0x00000000000009b6       0xe4
+ .text.__fmt_d  0x00000000000009b6       0xe4 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_d.o)
+                0x00000000000009b6                __fmt_d
+                0x00000000000009b6                __fmt_d_needed
+
+.text.__pop_int
+                0x0000000000000a9a       0xd0
+ .text.__pop_int
+                0x0000000000000a9a       0xd0 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__pop_int.o)
+                0x0000000000000a9a                __pop_int_needed
+                0x0000000000000a9a                __pop_int
+
+.text.__cvt_u   0x0000000000000b6a       0xca
+ .text.__cvt_u  0x0000000000000b6a       0xca c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o)
+                0x0000000000000b6a                __cvt_u
+
+.text.ADC0_Initialize
+                0x0000000000000c34       0xc8
+ .text.ADC0_Initialize
+                0x0000000000000c34       0xc8 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+                0x0000000000000c34                ADC0_Initialize
+
+.text.__vector_45
+                0x0000000000000cfc       0xc4
+ .text.__vector_45
+                0x0000000000000cfc       0xc4 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000cfc                __vector_45
+
+.text.__fmt_o   0x0000000000000dc0       0xb2
+ .text.__fmt_o  0x0000000000000dc0       0xb2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_o.o)
+                0x0000000000000dc0                __fmt_o
+                0x0000000000000dc0                __fmt_o_needed
+
+.text.__vector_24
+                0x0000000000000e72       0xa4
+ .text.__vector_24
+                0x0000000000000e72       0xa4 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000e72                __vector_24
+
+.text.fputc     0x0000000000000f16       0x98
+ .text.fputc    0x0000000000000f16       0x98 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(fputc.o)
+                0x0000000000000f16                fputc
+                0x0000000000000f16                putc
+
+.text.CLOCK_Initialize
+                0x0000000000000fae       0x94
+ .text.CLOCK_Initialize
+                0x0000000000000fae       0x94 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+                0x0000000000000fae                CLOCK_Initialize
+
+.text.__fmt_u   0x0000000000001042       0x8e
+ .text.__fmt_u  0x0000000000001042       0x8e c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_u.o)
+                0x0000000000001042                __fmt_u_needed
+                0x0000000000001042                __fmt_u
+
+.text.USART3_Initialize
+                0x00000000000010d0       0x8c
+ .text.USART3_Initialize
+                0x00000000000010d0       0x8c CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+                0x00000000000010d0                USART3_Initialize
+
+.text.main      0x000000000000115c       0x82
+ .text.main     0x000000000000115c       0x82 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+                0x000000000000115c                main
+
+.text.__vector_26
+                0x00000000000011de       0x7c
+ .text.__vector_26
+                0x00000000000011de       0x7c CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+                0x00000000000011de                __vector_26
+
+.text.__vector_27
+                0x000000000000125a       0x7c
+ .text.__vector_27
+                0x000000000000125a       0x7c CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+                0x000000000000125a                __vector_27
+
+.text.__pad     0x00000000000012d6       0x72
+ .text.__pad    0x00000000000012d6       0x72 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+                0x00000000000012d6                __pad
+
+.text.__printf_core
+                0x0000000000001348       0x68
+ .text.__printf_core
+                0x0000000000001348       0x68 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+                0x0000000000001348                __printf_core
+
+.text.read_prec_or_width
+                0x00000000000013b0       0x5c
+ .text.read_prec_or_width
+                0x00000000000013b0       0x5c c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+
+.text.__fmt_s   0x000000000000140c       0x54
+ .text.__fmt_s  0x000000000000140c       0x54 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o)
+                0x000000000000140c                __fmt_s
+                0x000000000000140c                __fmt_0_needed
+                0x000000000000140c                __fmt_s_needed
+
+.text.__vector_8
+                0x0000000000001460       0x48
+ .text.__vector_8
+                0x0000000000001460       0x48 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000001460                __vector_8
+
+.text.__vector_30
+                0x00000000000014a8       0x48
+ .text.__vector_30
+                0x00000000000014a8       0x48 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x00000000000014a8                __vector_30
+
+.text.__vector_46
+                0x00000000000014f0       0x48
+ .text.__vector_46
+                0x00000000000014f0       0x48 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x00000000000014f0                __vector_46
+
+.text.__vector_35
+                0x0000000000001538       0x48
+ .text.__vector_35
+                0x0000000000001538       0x48 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000001538                __vector_35
+
+.text.libgcc.div
+                0x0000000000001580       0x44
+ .text.libgcc.div
+                0x0000000000001580       0x44 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_udivmodsi4.o)
+                0x0000000000001580                __udivmodsi4
+
+.text.__fmt_state
+                0x00000000000015c4       0x40
+ .text.__fmt_state
+                0x00000000000015c4       0x40 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+                0x00000000000015c4                __fmt_state
+
+.text.__out     0x0000000000001604       0x3a
+ .text.__out    0x0000000000001604       0x3a c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+                0x0000000000001604                __out
+
+.text.USART3_printCHAR
+                0x000000000000163e       0x38
+ .text.USART3_printCHAR
+                0x000000000000163e       0x38 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+                0x000000000000163e                USART3_printCHAR
+
+.text.libgcc.prologue
+                0x0000000000001676       0x32
+ .text.libgcc.prologue
+                0x0000000000001676       0x32 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_prologue.o)
+                0x0000000000001676                __prologue_saves__
+
+.text.__wrap_printf
+                0x00000000000016a8       0x30
+ .text.__wrap_printf
+                0x00000000000016a8       0x30 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__sio_printf_doux.o)
+                0x00000000000016a8                _printf_cdopuxX
+
+.text.__vfprintf
+                0x00000000000016d8       0x30
+ .text.__vfprintf
+                0x00000000000016d8       0x30 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__int_vfprintf.o)
+                0x00000000000016d8                __vfprintf
+
+.text.libgcc.prologue
+                0x0000000000001708       0x30
+ .text.libgcc.prologue
+                0x0000000000001708       0x30 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/avrxmega4\libgcc.a(_epilogue.o)
+                0x0000000000001708                __epilogue_restores__
+
+.text.USART3_FramingErrorCallbackRegister
+                0x0000000000001738       0x2e
+ .text.USART3_FramingErrorCallbackRegister
+                0x0000000000001738       0x2e CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+                0x0000000000001738                USART3_FramingErrorCallbackRegister
+
+.text.USART3_OverrunErrorCallbackRegister
+                0x0000000000001766       0x2e
+ .text.USART3_OverrunErrorCallbackRegister
+                0x0000000000001766       0x2e CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+                0x0000000000001766                USART3_OverrunErrorCallbackRegister
+
+.text.USART3_ParityErrorCallbackRegister
+                0x0000000000001794       0x2e
+ .text.USART3_ParityErrorCallbackRegister
+                0x0000000000001794       0x2e CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+                0x0000000000001794                USART3_ParityErrorCallbackRegister
+
+.text.ccp_write_io
+                0x00000000000017c2       0x2c
+ .text.ccp_write_io
+                0x00000000000017c2       0x2c CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\clock.c.o
+
+.text.ccp_write_io
+                0x00000000000017ee       0x2c
+ .text.ccp_write_io
+                0x00000000000017ee       0x2c CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+
+.text.CPUINT_Initialize
+                0x000000000000181a       0x2a
+ .text.CPUINT_Initialize
+                0x000000000000181a       0x2a CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\interrupt.c.o
+                0x000000000000181a                CPUINT_Initialize
+
+.text.ADC0_IsConversionDone
+                0x0000000000001844       0x28
+ .text.ADC0_IsConversionDone
+                0x0000000000001844       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+                0x0000000000001844                ADC0_IsConversionDone
+
+.text.SYSTEM_Initialize
+                0x000000000000186c       0x28
+ .text.SYSTEM_Initialize
+                0x000000000000186c       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\system.c.o
+                0x000000000000186c                SYSTEM_Initialize
+
+.text.USART3_IsTxReady
+                0x0000000000001894       0x28
+ .text.USART3_IsTxReady
+                0x0000000000001894       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+                0x0000000000001894                USART3_IsTxReady
+
+.text.VREF_Initialize
+                0x00000000000018bc       0x28
+ .text.VREF_Initialize
+                0x00000000000018bc       0x28 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\vref\src\vref.c.o
+                0x00000000000018bc                VREF_Initialize
+
+.text.IO_PB1_SetInterruptHandler
+                0x00000000000018e4       0x26
+ .text.IO_PB1_SetInterruptHandler
+                0x00000000000018e4       0x26 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x00000000000018e4                IO_PB1_SetInterruptHandler
+
+.text.IO_PB0_SetInterruptHandler
+                0x000000000000190a       0x26
+ .text.IO_PB0_SetInterruptHandler
+                0x000000000000190a       0x26 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x000000000000190a                IO_PB0_SetInterruptHandler
+
+.text.IO_PD0_SetInterruptHandler
+                0x0000000000001930       0x26
+ .text.IO_PD0_SetInterruptHandler
+                0x0000000000001930       0x26 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000001930                IO_PD0_SetInterruptHandler
+
+.text.IO_PD6_SetInterruptHandler
+                0x0000000000001956       0x26
+ .text.IO_PD6_SetInterruptHandler
+                0x0000000000001956       0x26 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000001956                IO_PD6_SetInterruptHandler
+
+.text.LED_SetInterruptHandler
+                0x000000000000197c       0x26
+ .text.LED_SetInterruptHandler
+                0x000000000000197c       0x26 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x000000000000197c                LED_SetInterruptHandler
+
+.text.ADC0_Enable
+                0x00000000000019a2       0x22
+ .text.ADC0_Enable
+                0x00000000000019a2       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+                0x00000000000019a2                ADC0_Enable
+
+.text.ADC0_ConversionStart
+                0x00000000000019c4       0x22
+ .text.ADC0_ConversionStart
+                0x00000000000019c4       0x22 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+                0x00000000000019c4                ADC0_ConversionStart
+
+.text.ADC0_ChannelSelect
+                0x00000000000019e6       0x20
+ .text.ADC0_ChannelSelect
+                0x00000000000019e6       0x20 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+                0x00000000000019e6                ADC0_ChannelSelect
+
+.text.USART3_Write
+                0x0000000000001a06       0x20
+ .text.USART3_Write
+                0x0000000000001a06       0x20 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+                0x0000000000001a06                USART3_Write
+
+.text.strlen    0x0000000000001a26       0x1c
+ .text.strlen   0x0000000000001a26       0x1c c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(strlen.o)
+                0x0000000000001a26                strlen
+
+.text.ADC0_ConversionResultGet
+                0x0000000000001a42       0x18
+ .text.ADC0_ConversionResultGet
+                0x0000000000001a42       0x18 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\adc\src\adc0.c.o
+                0x0000000000001a42                ADC0_ConversionResultGet
+
+.text.exit      0x0000000000001a5a       0x16
+ .text.exit     0x0000000000001a5a       0x16 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x0000000000001a5a                exit
+
+.text.toupper   0x0000000000001a70       0x12
+ .text.toupper  0x0000000000001a70       0x12 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(toupper.o)
+                0x0000000000001a70                toupper
+
+.text.IO_PB1_DefaultInterruptHandler
+                0x0000000000001a82       0x10
+ .text.IO_PB1_DefaultInterruptHandler
+                0x0000000000001a82       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000001a82                IO_PB1_DefaultInterruptHandler
+
+.text.IO_PB0_DefaultInterruptHandler
+                0x0000000000001a92       0x10
+ .text.IO_PB0_DefaultInterruptHandler
+                0x0000000000001a92       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000001a92                IO_PB0_DefaultInterruptHandler
+
+.text.IO_PD0_DefaultInterruptHandler
+                0x0000000000001aa2       0x10
+ .text.IO_PD0_DefaultInterruptHandler
+                0x0000000000001aa2       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000001aa2                IO_PD0_DefaultInterruptHandler
+
+.text.IO_PD6_DefaultInterruptHandler
+                0x0000000000001ab2       0x10
+ .text.IO_PD6_DefaultInterruptHandler
+                0x0000000000001ab2       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000001ab2                IO_PD6_DefaultInterruptHandler
+
+.text.LED_DefaultInterruptHandler
+                0x0000000000001ac2       0x10
+ .text.LED_DefaultInterruptHandler
+                0x0000000000001ac2       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000001ac2                LED_DefaultInterruptHandler
+
+.text.USART3_DefaultFramingErrorCallback
+                0x0000000000001ad2       0x10
+ .text.USART3_DefaultFramingErrorCallback
+                0x0000000000001ad2       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+
+.text.USART3_DefaultOverrunErrorCallback
+                0x0000000000001ae2       0x10
+ .text.USART3_DefaultOverrunErrorCallback
+                0x0000000000001ae2       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+
+.text.USART3_DefaultParityErrorCallback
+                0x0000000000001af2       0x10
+ .text.USART3_DefaultParityErrorCallback
+                0x0000000000001af2       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+
+.text.tolower   0x0000000000001b02       0x10
+ .text.tolower  0x0000000000001b02       0x10 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(tolower.o)
+                0x0000000000001b02                tolower
+
+.text.protected_write_io
+                0x0000000000001b12        0xa
+ .text.protected_write_io
+                0x0000000000001b12        0xa CMakeFiles\test_1000000_default_default_XC8_assemblePreprocess.dir\53bce7f9cf5a121bc25e39fc40ed07be\My_MCC_Config\mcc\mcc_generated_files\system\src\protected_io.S.o
+                0x0000000000001b12                protected_write_io
+
+.text           0x0000000000001b1c        0x4
+ .text          0x0000000000001b1c        0x4 C:/Users/husev/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+                0x0000000000001b1c                __vector_38
+                0x0000000000001b1c                __vector_22
+                0x0000000000001b1c                __vector_28
+                0x0000000000001b1c                __vector_1
+                0x0000000000001b1c                __vector_32
+                0x0000000000001b1c                __vector_34
+                0x0000000000001b1c                __vector_12
+                0x0000000000001b1c                __vector_55
+                0x0000000000001b1c                __bad_interrupt
+                0x0000000000001b1c                __vector_6
+                0x0000000000001b1c                __vector_31
+                0x0000000000001b1c                __vector_39
+                0x0000000000001b1c                __vector_3
+                0x0000000000001b1c                __vector_23
+                0x0000000000001b1c                __vector_25
+                0x0000000000001b1c                __vector_11
+                0x0000000000001b1c                __vector_54
+                0x0000000000001b1c                __vector_13
+                0x0000000000001b1c                __vector_17
+                0x0000000000001b1c                __vector_19
+                0x0000000000001b1c                __vector_56
+                0x0000000000001b1c                __vector_7
+                0x0000000000001b1c                __vector_49
+                0x0000000000001b1c                __vector_41
+                0x0000000000001b1c                __vector_43
+                0x0000000000001b1c                __vector_5
+                0x0000000000001b1c                __vector_33
+                0x0000000000001b1c                __vector_47
+                0x0000000000001b1c                __vector_52
+                0x0000000000001b1c                __vector_37
+                0x0000000000001b1c                __vector_4
+                0x0000000000001b1c                __vector_44
+                0x0000000000001b1c                __vector_51
+                0x0000000000001b1c                __vector_9
+                0x0000000000001b1c                __vector_2
+                0x0000000000001b1c                __vector_21
+                0x0000000000001b1c                __vector_15
+                0x0000000000001b1c                __vector_36
+                0x0000000000001b1c                __vector_58
+                0x0000000000001b1c                __vector_29
+                0x0000000000001b1c                __vector_60
+                0x0000000000001b1c                __vector_40
+                0x0000000000001b1c                __vector_48
+                0x0000000000001b1c                __vector_14
+                0x0000000000001b1c                __vector_57
+                0x0000000000001b1c                __vector_53
+                0x0000000000001b1c                __vector_10
+                0x0000000000001b1c                __vector_50
+                0x0000000000001b1c                __vector_16
+                0x0000000000001b1c                __vector_59
+                0x0000000000001b1c                __vector_18
+                0x0000000000001b1c                __vector_20
+                0x0000000000001b1c                __vector_42
+
+.text._Exit     0x0000000000001b20        0x4
+ .text._Exit    0x0000000000001b20        0x4 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+                0x0000000000001b20                _Exit
+
+.text.__dummy_fini
+                0x0000000000001b24        0x2
+ .text.__dummy_fini
+                0x0000000000001b24        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x0000000000001b24                _fini
+
+.text.__dummy_funcs_on_exit
+                0x0000000000001b26        0x2
+ .text.__dummy_funcs_on_exit
+                0x0000000000001b26        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x0000000000001b26                __funcs_on_exit
+
+.text.__dummy_simulator_exit
+                0x0000000000001b28        0x2
+ .text.__dummy_simulator_exit
+                0x0000000000001b28        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x0000000000001b28                __simulator_exit
+
+.rodata.state_table
+                0x0000000000804002       0x16 load address 0x0000000000001b2a
+ .rodata.state_table
+                0x0000000000804002       0x16 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+
+.data.USART3_stream
+                0x0000000000804018       0x10 load address 0x0000000000001b40
+ .data.USART3_stream
+                0x0000000000804018       0x10 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\mcc_generated_files\uart\src\usart3.c.o
+                0x0000000000804018                USART3_stream
+
+.rodata.nuls.2781
+                0x0000000000804028        0x7 load address 0x0000000000001b50
+ .rodata.nuls.2781
+                0x0000000000804028        0x7 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__fmt_s.o)
+
+.rodata.nilstr.2962
+                0x000000000080402f        0x6 load address 0x0000000000001b57
+ .rodata.nilstr.2962
+                0x000000000080402f        0x6 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(__printf_core.o)
+
+.rodata         0x0000000000804035        0x5 load address 0x0000000000001b5d
+ .rodata        0x0000000000804035        0x5 CMakeFiles\test_1000000_default_default_XC8_compile.dir\C_\Users\husev\AVR-kurs\Kursdag_2\Oppgave-1-LF\My_MCC_Config\mcc\main.c.o
+
+.data._stdout   0x0000000000804050        0x2 load address 0x0000000000001b62
+ .data._stdout  0x0000000000804050        0x2 c:/progra~1/microc~1/xc8/v3.10/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(stdout.o)
+                0x0000000000804050                _stdout
