@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.00\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I\"C:\\Users\\torbj\\Documents\\Linjeforening\\Elektra\\AVR-kurs\\Kursdag 1\\Oppgave-4-Lf\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\" -c -mcpu=AVR128DB48 -g -gdwarf-2 -x assembler-with-cpp -mdfp=C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -Wa,--defsym=__MPLAB_BUILD=1,--defsym=__MPLAB_DEBUG=1,--defsym=__DEBUG=1 -o CMakeFiles\\Oppgave_4_Lf_default_default_XC8_assemblePreprocess.dir\\f91788819347d24fa41896d684bef0e2\\system\\src\\protected_io.S.o -c \"C:\\Users\\torbj\\Documents\\Linjeforening\\Elektra\\AVR-kurs\\Kursdag 1\\Oppgave-4-Lf\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\protected_io.S\"",
+  "file": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/My_MCC_Config/mcc/mcc_generated_files/system/src/protected_io.S",
+  "output": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default/CMakeFiles/Oppgave_4_Lf_default_default_XC8_assemblePreprocess.dir/f91788819347d24fa41896d684bef0e2/system/src/protected_io.S.o"
+},
+{
+  "directory": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.00\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -c -mcpu=AVR128DB48 -gdwarf-2 -x c -mdfp=C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Oppgave_4_Lf_default_default_XC8_compile.dir\\94db0fc7b45eefcefec4b33d70c1bfaa\\Kursdag_1\\Oppgave-4-Lf\\My_MCC_Config\\mcc\\main.c.o -c \"C:\\Users\\torbj\\Documents\\Linjeforening\\Elektra\\AVR-kurs\\Kursdag 1\\Oppgave-4-Lf\\My_MCC_Config\\mcc\\main.c\"",
+  "file": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/My_MCC_Config/mcc/main.c",
+  "output": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default/CMakeFiles/Oppgave_4_Lf_default_default_XC8_compile.dir/94db0fc7b45eefcefec4b33d70c1bfaa/Kursdag_1/Oppgave-4-Lf/My_MCC_Config/mcc/main.c.o"
+},
+{
+  "directory": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.00\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -c -mcpu=AVR128DB48 -gdwarf-2 -x c -mdfp=C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Oppgave_4_Lf_default_default_XC8_compile.dir\\825efb11c6dbe9545c8e02b95689870f\\mcc\\mcc_generated_files\\system\\src\\clock.c.o -c \"C:\\Users\\torbj\\Documents\\Linjeforening\\Elektra\\AVR-kurs\\Kursdag 1\\Oppgave-4-Lf\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\clock.c\"",
+  "file": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/My_MCC_Config/mcc/mcc_generated_files/system/src/clock.c",
+  "output": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default/CMakeFiles/Oppgave_4_Lf_default_default_XC8_compile.dir/825efb11c6dbe9545c8e02b95689870f/mcc/mcc_generated_files/system/src/clock.c.o"
+},
+{
+  "directory": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.00\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -c -mcpu=AVR128DB48 -gdwarf-2 -x c -mdfp=C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Oppgave_4_Lf_default_default_XC8_compile.dir\\825efb11c6dbe9545c8e02b95689870f\\mcc\\mcc_generated_files\\system\\src\\config_bits.c.o -c \"C:\\Users\\torbj\\Documents\\Linjeforening\\Elektra\\AVR-kurs\\Kursdag 1\\Oppgave-4-Lf\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\config_bits.c\"",
+  "file": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/My_MCC_Config/mcc/mcc_generated_files/system/src/config_bits.c",
+  "output": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default/CMakeFiles/Oppgave_4_Lf_default_default_XC8_compile.dir/825efb11c6dbe9545c8e02b95689870f/mcc/mcc_generated_files/system/src/config_bits.c.o"
+},
+{
+  "directory": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.00\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -c -mcpu=AVR128DB48 -gdwarf-2 -x c -mdfp=C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Oppgave_4_Lf_default_default_XC8_compile.dir\\825efb11c6dbe9545c8e02b95689870f\\mcc\\mcc_generated_files\\system\\src\\interrupt.c.o -c \"C:\\Users\\torbj\\Documents\\Linjeforening\\Elektra\\AVR-kurs\\Kursdag 1\\Oppgave-4-Lf\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\interrupt.c\"",
+  "file": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/My_MCC_Config/mcc/mcc_generated_files/system/src/interrupt.c",
+  "output": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default/CMakeFiles/Oppgave_4_Lf_default_default_XC8_compile.dir/825efb11c6dbe9545c8e02b95689870f/mcc/mcc_generated_files/system/src/interrupt.c.o"
+},
+{
+  "directory": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.00\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -c -mcpu=AVR128DB48 -gdwarf-2 -x c -mdfp=C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Oppgave_4_Lf_default_default_XC8_compile.dir\\825efb11c6dbe9545c8e02b95689870f\\mcc\\mcc_generated_files\\system\\src\\pins.c.o -c \"C:\\Users\\torbj\\Documents\\Linjeforening\\Elektra\\AVR-kurs\\Kursdag 1\\Oppgave-4-Lf\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\pins.c\"",
+  "file": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/My_MCC_Config/mcc/mcc_generated_files/system/src/pins.c",
+  "output": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default/CMakeFiles/Oppgave_4_Lf_default_default_XC8_compile.dir/825efb11c6dbe9545c8e02b95689870f/mcc/mcc_generated_files/system/src/pins.c.o"
+},
+{
+  "directory": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default",
+  "command": "c:\\PROGRA~1\\MICROC~1\\xc8\\v3.00\\bin\\xc8-cc.exe -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -c -mcpu=AVR128DB48 -gdwarf-2 -x c -mdfp=C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\Oppgave_4_Lf_default_default_XC8_compile.dir\\825efb11c6dbe9545c8e02b95689870f\\mcc\\mcc_generated_files\\system\\src\\system.c.o -c \"C:\\Users\\torbj\\Documents\\Linjeforening\\Elektra\\AVR-kurs\\Kursdag 1\\Oppgave-4-Lf\\My_MCC_Config\\mcc\\mcc_generated_files\\system\\src\\system.c\"",
+  "file": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/My_MCC_Config/mcc/mcc_generated_files/system/src/system.c",
+  "output": "C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 1/Oppgave-4-Lf/_build/Oppgave-4-Lf/default/CMakeFiles/Oppgave_4_Lf_default_default_XC8_compile.dir/825efb11c6dbe9545c8e02b95689870f/mcc/mcc_generated_files/system/src/system.c.o"
+}
+]
