@@ -11,6 +11,7 @@
 
 int main(){
     //Definer pinnen som en utgang
+    PORTB.DIR |= PIN3_bm;
 
     //Skru LEDen av og på med en jevn periode. 
     while(1){
