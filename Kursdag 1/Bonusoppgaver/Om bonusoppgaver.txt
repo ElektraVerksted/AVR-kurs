@@ -1,0 +1,18 @@
+Bonusoppgavene er til for deg som har fullført dagens oppgaver og ønsker å bryne deg på mer.
+Oppgavene gir et frampek til temaet for neste kursdag, men er preget av egen læring. Oppgavene er gitt, men 
+du får ingen fremgangsmetode eller løsningsforslag. Derimot får du pekepinner på hvor i databladet du 
+kan lete for å lære det du trenger.
+
+Et veldig generelt tips er: Omtrent alle periferienheter har et punkt som heter "Initialization" under 
+den funksjonelle beskrivelsen. Dette er en avkrysningsliste for de absolutt nødvendige trinnene for 
+at periferienheten skal fungere. Det anbefales å lese et par avsnitt i databladet for å forstå hvordan
+periferienheten virker.
+
+Et annet tips, dersom du bruker MCC, er å lese de tilgjengelige funksjonene til hver komponent. Disse finner 
+du under <Prosjektnavn>/My_MCC_Config/mcc/mcc_generated/files. Funksjonsnavnene er stort sett selvforklarende.
+
+Ta notater når du leser databladet, det hjelper å teste forståelsen. Dersom du klarer å beskrive det med 
+dine egne ord har du antageligvis forstått litt av det.
+
+
+Lykke til!
