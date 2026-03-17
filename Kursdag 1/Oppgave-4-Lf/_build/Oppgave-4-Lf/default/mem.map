@@ -531,189 +531,189 @@ LOAD data_init
                 0x0000000000804002        0x2 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
 
 .text.PIN_MANAGER_Initialize
-                0x0000000000000152      0x25a
+                0x0000000000000152      0x25c
  .text.PIN_MANAGER_Initialize
-                0x0000000000000152      0x25a CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000152      0x25c CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
                 0x0000000000000152                PIN_MANAGER_Initialize
 
 .text.__vector_45
-                0x00000000000003ac       0xa4
+                0x00000000000003ae       0xa4
  .text.__vector_45
-                0x00000000000003ac       0xa4 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
-                0x00000000000003ac                __vector_45
+                0x00000000000003ae       0xa4 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x00000000000003ae                __vector_45
 
 .text.CLOCK_Initialize
-                0x0000000000000450       0x94
+                0x0000000000000452       0x94
  .text.CLOCK_Initialize
-                0x0000000000000450       0x94 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\clock.c.o
-                0x0000000000000450                CLOCK_Initialize
+                0x0000000000000452       0x94 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\clock.c.o
+                0x0000000000000452                CLOCK_Initialize
 
 .text.__vector_8
-                0x00000000000004e4       0x48
+                0x00000000000004e6       0x48
  .text.__vector_8
-                0x00000000000004e4       0x48 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
-                0x00000000000004e4                __vector_8
+                0x00000000000004e6       0x48 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x00000000000004e6                __vector_8
 
 .text.__vector_30
-                0x000000000000052c       0x48
+                0x000000000000052e       0x48
  .text.__vector_30
-                0x000000000000052c       0x48 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
-                0x000000000000052c                __vector_30
+                0x000000000000052e       0x48 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x000000000000052e                __vector_30
 
 .text.__vector_24
-                0x0000000000000574       0x48
+                0x0000000000000576       0x48
  .text.__vector_24
-                0x0000000000000574       0x48 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
-                0x0000000000000574                __vector_24
+                0x0000000000000576       0x48 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000576                __vector_24
 
 .text.__vector_46
-                0x00000000000005bc       0x48
+                0x00000000000005be       0x48
  .text.__vector_46
-                0x00000000000005bc       0x48 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
-                0x00000000000005bc                __vector_46
+                0x00000000000005be       0x48 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x00000000000005be                __vector_46
 
 .text.__vector_35
-                0x0000000000000604       0x48
+                0x0000000000000606       0x48
  .text.__vector_35
-                0x0000000000000604       0x48 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
-                0x0000000000000604                __vector_35
+                0x0000000000000606       0x48 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000606                __vector_35
 
-.text.main      0x000000000000064c       0x38
- .text.main     0x000000000000064c       0x38 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-4-Lf\My_MCC_Config\mcc\main.c.o
-                0x000000000000064c                main
-
-.text.ccp_write_io
-                0x0000000000000684       0x2c
- .text.ccp_write_io
-                0x0000000000000684       0x2c CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\clock.c.o
+.text.main      0x000000000000064e       0x38
+ .text.main     0x000000000000064e       0x38 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\94db0fc7b45eefcefec4b33d70c1bfaa\Kursdag_1\Oppgave-4-Lf\My_MCC_Config\mcc\main.c.o
+                0x000000000000064e                main
 
 .text.ccp_write_io
-                0x00000000000006b0       0x2c
+                0x0000000000000686       0x2c
  .text.ccp_write_io
-                0x00000000000006b0       0x2c CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\interrupt.c.o
+                0x0000000000000686       0x2c CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\clock.c.o
+
+.text.ccp_write_io
+                0x00000000000006b2       0x2c
+ .text.ccp_write_io
+                0x00000000000006b2       0x2c CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\interrupt.c.o
 
 .text.CPUINT_Initialize
-                0x00000000000006dc       0x2a
+                0x00000000000006de       0x2a
  .text.CPUINT_Initialize
-                0x00000000000006dc       0x2a CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\interrupt.c.o
-                0x00000000000006dc                CPUINT_Initialize
+                0x00000000000006de       0x2a CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\interrupt.c.o
+                0x00000000000006de                CPUINT_Initialize
 
 .text.SW0_SetInterruptHandler
-                0x0000000000000706       0x26
+                0x0000000000000708       0x26
  .text.SW0_SetInterruptHandler
-                0x0000000000000706       0x26 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
-                0x0000000000000706                SW0_SetInterruptHandler
+                0x0000000000000708       0x26 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000708                SW0_SetInterruptHandler
 
 .text.LED_SetInterruptHandler
-                0x000000000000072c       0x26
+                0x000000000000072e       0x26
  .text.LED_SetInterruptHandler
-                0x000000000000072c       0x26 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
-                0x000000000000072c                LED_SetInterruptHandler
+                0x000000000000072e       0x26 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x000000000000072e                LED_SetInterruptHandler
 
 .text.SYSTEM_Initialize
-                0x0000000000000752       0x1c
+                0x0000000000000754       0x1c
  .text.SYSTEM_Initialize
-                0x0000000000000752       0x1c CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\system.c.o
-                0x0000000000000752                SYSTEM_Initialize
+                0x0000000000000754       0x1c CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\system.c.o
+                0x0000000000000754                SYSTEM_Initialize
 
-.text.exit      0x000000000000076e       0x16
- .text.exit     0x000000000000076e       0x16 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
-                0x000000000000076e                exit
+.text.exit      0x0000000000000770       0x16
+ .text.exit     0x0000000000000770       0x16 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x0000000000000770                exit
 
 .text.SW0_DefaultInterruptHandler
-                0x0000000000000784       0x10
+                0x0000000000000786       0x10
  .text.SW0_DefaultInterruptHandler
-                0x0000000000000784       0x10 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
-                0x0000000000000784                SW0_DefaultInterruptHandler
+                0x0000000000000786       0x10 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000786                SW0_DefaultInterruptHandler
 
 .text.LED_DefaultInterruptHandler
-                0x0000000000000794       0x10
+                0x0000000000000796       0x10
  .text.LED_DefaultInterruptHandler
-                0x0000000000000794       0x10 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
-                0x0000000000000794                LED_DefaultInterruptHandler
+                0x0000000000000796       0x10 CMakeFiles\Oppgave_4_Lf_default_default_XC8_compile.dir\825efb11c6dbe9545c8e02b95689870f\mcc\mcc_generated_files\system\src\pins.c.o
+                0x0000000000000796                LED_DefaultInterruptHandler
 
 .text.protected_write_io
-                0x00000000000007a4        0xa
+                0x00000000000007a6        0xa
  .text.protected_write_io
-                0x00000000000007a4        0xa CMakeFiles\Oppgave_4_Lf_default_default_XC8_assemblePreprocess.dir\f91788819347d24fa41896d684bef0e2\system\src\protected_io.S.o
-                0x00000000000007a4                protected_write_io
+                0x00000000000007a6        0xa CMakeFiles\Oppgave_4_Lf_default_default_XC8_assemblePreprocess.dir\f91788819347d24fa41896d684bef0e2\system\src\protected_io.S.o
+                0x00000000000007a6                protected_write_io
 
-.text           0x00000000000007ae        0x4
- .text          0x00000000000007ae        0x4 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
-                0x00000000000007ae                __vector_38
-                0x00000000000007ae                __vector_22
-                0x00000000000007ae                __vector_28
-                0x00000000000007ae                __vector_1
-                0x00000000000007ae                __vector_32
-                0x00000000000007ae                __vector_34
-                0x00000000000007ae                __vector_12
-                0x00000000000007ae                __vector_55
-                0x00000000000007ae                __bad_interrupt
-                0x00000000000007ae                __vector_6
-                0x00000000000007ae                __vector_31
-                0x00000000000007ae                __vector_39
-                0x00000000000007ae                __vector_3
-                0x00000000000007ae                __vector_23
-                0x00000000000007ae                __vector_25
-                0x00000000000007ae                __vector_11
-                0x00000000000007ae                __vector_54
-                0x00000000000007ae                __vector_13
-                0x00000000000007ae                __vector_17
-                0x00000000000007ae                __vector_19
-                0x00000000000007ae                __vector_56
-                0x00000000000007ae                __vector_7
-                0x00000000000007ae                __vector_49
-                0x00000000000007ae                __vector_41
-                0x00000000000007ae                __vector_43
-                0x00000000000007ae                __vector_27
-                0x00000000000007ae                __vector_5
-                0x00000000000007ae                __vector_33
-                0x00000000000007ae                __vector_47
-                0x00000000000007ae                __vector_52
-                0x00000000000007ae                __vector_37
-                0x00000000000007ae                __vector_4
-                0x00000000000007ae                __vector_44
-                0x00000000000007ae                __vector_51
-                0x00000000000007ae                __vector_9
-                0x00000000000007ae                __vector_2
-                0x00000000000007ae                __vector_21
-                0x00000000000007ae                __vector_15
-                0x00000000000007ae                __vector_36
-                0x00000000000007ae                __vector_58
-                0x00000000000007ae                __vector_29
-                0x00000000000007ae                __vector_60
-                0x00000000000007ae                __vector_40
-                0x00000000000007ae                __vector_26
-                0x00000000000007ae                __vector_48
-                0x00000000000007ae                __vector_14
-                0x00000000000007ae                __vector_57
-                0x00000000000007ae                __vector_53
-                0x00000000000007ae                __vector_10
-                0x00000000000007ae                __vector_50
-                0x00000000000007ae                __vector_16
-                0x00000000000007ae                __vector_59
-                0x00000000000007ae                __vector_18
-                0x00000000000007ae                __vector_20
-                0x00000000000007ae                __vector_42
+.text           0x00000000000007b0        0x4
+ .text          0x00000000000007b0        0x4 C:/Users/torbj/.mchp_packs/Microchip/AVR-Dx_DFP/2.7.321/xc8/avr/lib/avrxmega4/crtavr128db48.o
+                0x00000000000007b0                __vector_38
+                0x00000000000007b0                __vector_22
+                0x00000000000007b0                __vector_28
+                0x00000000000007b0                __vector_1
+                0x00000000000007b0                __vector_32
+                0x00000000000007b0                __vector_34
+                0x00000000000007b0                __vector_12
+                0x00000000000007b0                __vector_55
+                0x00000000000007b0                __bad_interrupt
+                0x00000000000007b0                __vector_6
+                0x00000000000007b0                __vector_31
+                0x00000000000007b0                __vector_39
+                0x00000000000007b0                __vector_3
+                0x00000000000007b0                __vector_23
+                0x00000000000007b0                __vector_25
+                0x00000000000007b0                __vector_11
+                0x00000000000007b0                __vector_54
+                0x00000000000007b0                __vector_13
+                0x00000000000007b0                __vector_17
+                0x00000000000007b0                __vector_19
+                0x00000000000007b0                __vector_56
+                0x00000000000007b0                __vector_7
+                0x00000000000007b0                __vector_49
+                0x00000000000007b0                __vector_41
+                0x00000000000007b0                __vector_43
+                0x00000000000007b0                __vector_27
+                0x00000000000007b0                __vector_5
+                0x00000000000007b0                __vector_33
+                0x00000000000007b0                __vector_47
+                0x00000000000007b0                __vector_52
+                0x00000000000007b0                __vector_37
+                0x00000000000007b0                __vector_4
+                0x00000000000007b0                __vector_44
+                0x00000000000007b0                __vector_51
+                0x00000000000007b0                __vector_9
+                0x00000000000007b0                __vector_2
+                0x00000000000007b0                __vector_21
+                0x00000000000007b0                __vector_15
+                0x00000000000007b0                __vector_36
+                0x00000000000007b0                __vector_58
+                0x00000000000007b0                __vector_29
+                0x00000000000007b0                __vector_60
+                0x00000000000007b0                __vector_40
+                0x00000000000007b0                __vector_26
+                0x00000000000007b0                __vector_48
+                0x00000000000007b0                __vector_14
+                0x00000000000007b0                __vector_57
+                0x00000000000007b0                __vector_53
+                0x00000000000007b0                __vector_10
+                0x00000000000007b0                __vector_50
+                0x00000000000007b0                __vector_16
+                0x00000000000007b0                __vector_59
+                0x00000000000007b0                __vector_18
+                0x00000000000007b0                __vector_20
+                0x00000000000007b0                __vector_42
 
-.text._Exit     0x00000000000007b2        0x4
- .text._Exit    0x00000000000007b2        0x4 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
-                0x00000000000007b2                _Exit
+.text._Exit     0x00000000000007b4        0x4
+ .text._Exit    0x00000000000007b4        0x4 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(_Exit.o)
+                0x00000000000007b4                _Exit
 
 .text.__dummy_fini
-                0x00000000000007b6        0x2
+                0x00000000000007b8        0x2
  .text.__dummy_fini
-                0x00000000000007b6        0x2 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
-                0x00000000000007b6                _fini
+                0x00000000000007b8        0x2 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x00000000000007b8                _fini
 
 .text.__dummy_funcs_on_exit
-                0x00000000000007b8        0x2
+                0x00000000000007ba        0x2
  .text.__dummy_funcs_on_exit
-                0x00000000000007b8        0x2 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
-                0x00000000000007b8                __funcs_on_exit
+                0x00000000000007ba        0x2 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x00000000000007ba                __funcs_on_exit
 
 .text.__dummy_simulator_exit
-                0x00000000000007ba        0x2
+                0x00000000000007bc        0x2
  .text.__dummy_simulator_exit
-                0x00000000000007ba        0x2 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
-                0x00000000000007ba                __simulator_exit
+                0x00000000000007bc        0x2 c:/progra~1/microc~1/xc8/v3.00/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega4\libc.a(exit.o)
+                0x00000000000007bc                __simulator_exit

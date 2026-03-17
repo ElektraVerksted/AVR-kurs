@@ -1,3 +1,4 @@
+
 /**
  * @file main.c
  * @author husev
@@ -12,11 +13,16 @@
 
  
 int main() {
-    //Definer SW0 pin som inngang
+    //Definer LED pin som utgang
     PORTB.DIRSET = PIN3_bm;
-    
-    // Definer LED0 pin som utgang
+
+    //Definer SW0 pin som inngang
     PORTB.DIRCLR = PIN2_bm;
+
+    //Koble SW0 til PULLUP
+    PORTB.PIN2CTRL |= PORT_PULLUPEN_bm;
+    
+
     
     //Skru av LED0 hvis knappen ikke er trykket ned, og skru på LED0 hvis knappen er trykket ned
     while(1){
@@ -30,5 +36,3 @@ int main() {
     return 0;
     
 }
-
-

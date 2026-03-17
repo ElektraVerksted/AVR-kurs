@@ -1,5 +1,23 @@
 {
-    "version": "1.9",
+    "version": "1.8",
+    "configurations": [
+        {
+            "name": "default",
+            "id": "conf1",
+            "device": "AVR128DB48",
+            "imagePath": "./out/Oppgave-4-Lf/default.elf",
+            "tool": "PKOB nano",
+            "packs": [
+                {
+                    "name": "AVR-Dx_DFP",
+                    "vendor": "Microchip",
+                    "version": "2.7.321"
+                }
+            ],
+            "fileSet": "default",
+            "toolchain": "default-XC8"
+        }
+    ],
     "propertyGroups": [
         {
             "name": "default-XC8",
@@ -48,25 +66,6 @@
                 "My_MCC_Config/mcc/mcc_generated_files/system/port.h",
                 "My_MCC_Config/mcc/mcc_generated_files/system/src/pins.c"
             ]
-        }
-    ],
-    "configurations": [
-        {
-            "name": "default",
-            "id": "conf1",
-            "device": "AVR128DB48",
-            "imagePath": "./out/Oppgave-4-Lf/default.elf",
-            "tool": "PKOB nano",
-            "packs": [
-                {
-                    "name": "AVR-Dx_DFP",
-                    "vendor": "Microchip",
-                    "version": "2.7.321"
-                }
-            ],
-            "fileSet": "default",
-            "toolchain": "default-XC8",
-            "includeLegacyMacros": true
         }
     ]
 }
