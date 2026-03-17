@@ -1,0 +1,77 @@
+{
+    "version": "1.8",
+    "configurations": [
+        {
+            "name": "default",
+            "id": "conf1",
+            "device": "AVR128DB48",
+            "imagePath": "./out/Oppgave-2-LF/default.elf",
+            "packs": [
+                {
+                    "name": "AVR-Dx_DFP",
+                    "vendor": "Microchip",
+                    "version": "2.7.321"
+                }
+            ],
+            "fileSet": "default",
+            "toolchain": "default-XC8"
+        }
+    ],
+    "propertyGroups": [
+        {
+            "name": "default-XC8",
+            "type": "toolchain",
+            "provider": "microchip.toolchains:xc8@3.00",
+            "properties": {
+                "compiler.isolate-each-function": true,
+                "compiler.optimization-level": "-O1",
+                "compiler.place-data-into-section": true,
+                "linker.heap-size": "0",
+                "linker.remove-unused-sections": true,
+                "compiler++.isolate-each-function": true,
+                "compiler++.optimization-level": "-O1"
+            }
+        }
+    ],
+    "fileSets": [
+        {
+            "name": "default",
+            "files": [
+                {
+                    "include": "**/*",
+                    "exclude": "**/(_build|out|cmake|.vscode)/**/*"
+                },
+                "My_MCC_Config/mcc/mcc_generated_files/system/clock.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/src/clock.c",
+                "My_MCC_Config/mcc/mcc_generated_files/system/interrupt.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/src/interrupt.c",
+                "My_MCC_Config/mcc/mcc_generated_files/system/utils/utils_assert.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/system.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/utils/compiler.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/utils/utils.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/utils/assembler.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/ccp.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/src/protected_io.S",
+                "My_MCC_Config/mcc/mcc_generated_files/system/src/config_bits.c",
+                "My_MCC_Config/mcc/mcc_generated_files/system/protected_io.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/src/system.c",
+                "My_MCC_Config/mcc/mcc_generated_files/system/utils/assembler/gas.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/utils/atomic.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/utils/interrupt_avr8.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/config_bits.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/utils/assembler/iar.h",
+                "My_MCC_Config/mcc/main.c",
+                "My_MCC_Config/mcc/mcc_generated_files/system/port.h",
+                "My_MCC_Config/mcc/mcc_generated_files/system/src/pins.c",
+                "My_MCC_Config/mcc/mcc_generated_files/system/pins.h",
+                "My_MCC_Config/mcc/mcc_generated_files/timer/src/tca0.c",
+                "My_MCC_Config/mcc/mcc_generated_files/timer/tca0.h",
+                "My_MCC_Config/mcc/mcc_generated_files/timer/tca0_deprecated.h",
+                "My_MCC_Config/mcc/mcc_generated_files/uart/src/usart3.c",
+                "My_MCC_Config/mcc/mcc_generated_files/uart/usart3.h",
+                "My_MCC_Config/mcc/mcc_generated_files/uart/uart_drv_interface.h",
+                "My_MCC_Config/mcc/mcc_generated_files/uart/uart_types.h"
+            ]
+        }
+    ]
+}
