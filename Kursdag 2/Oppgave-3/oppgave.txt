@@ -1,0 +1,29 @@
+/*
+    I oppgave 3 skal du bruke en timer og en interrupt for å få en LED til å blinke med jevn periode.
+
+    Før du starter oppgaven bør du forstå hva en interrupt er. Du bør også forstå hvordan timeren 
+    fungerer, og hvordan du kan velge periode. Du kan lese om det i kapittel 23.2 og 23.3.5.
+
+    Det er flere måter å gjøre oppgaven på, med ulike interrupts. Det anbefales at du ikke bruker funksjonen 
+    "Generate ISR" så du får en forståelse for hvordan interrupts fungerer generelt.
+
+    Hint: Les i <Prosjektmappe>/My_MCC_Config/mcc/mcc_generated_files/timer/tca0.h for tilgjengelige timer-funksjoner
+*/
+
+//Lag en interrupt service routine(ISR) for timeren.
+ISR(/*Hvilken interrupt-hendelse passer best her?*/){
+    //Skru LEDen på om den er av, og motsatt.
+}
+
+int main(void)
+{
+    SYSTEM_Initialize();
+
+    //Skru på interrupts
+
+
+    //Pass på at koden ikke stanser
+    while (1) {
+    
+    }
+}

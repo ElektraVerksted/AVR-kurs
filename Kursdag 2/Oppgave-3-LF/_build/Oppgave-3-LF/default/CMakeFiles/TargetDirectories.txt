@@ -1,0 +1,5 @@
+C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 2/Oppgave-3-LF/_build/Oppgave-3-LF/default/CMakeFiles/Oppgave_3_LF_default_default_XC8_assemblePreprocess.dir
+C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 2/Oppgave-3-LF/_build/Oppgave-3-LF/default/CMakeFiles/Oppgave_3_LF_default_default_XC8_compile.dir
+C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 2/Oppgave-3-LF/_build/Oppgave-3-LF/default/CMakeFiles/Oppgave_3_LF_default_image_q9956A3A.dir
+C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 2/Oppgave-3-LF/_build/Oppgave-3-LF/default/CMakeFiles/edit_cache.dir
+C:/Users/torbj/Documents/Linjeforening/Elektra/AVR-kurs/Kursdag 2/Oppgave-3-LF/_build/Oppgave-3-LF/default/CMakeFiles/rebuild_cache.dir
