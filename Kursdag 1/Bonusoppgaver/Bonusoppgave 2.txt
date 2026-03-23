@@ -1,9 +1,0 @@
-Få RGB-dioden (til høyre på kortet, over ringen med RGB-lys) til å lyse forskjellige farger. Dioden 
-er koblet til PWM A, B og C, og fargen bestemmes av hvor lyse hver av de tre fargene er i forhold til hverandre.
-
-
-For å løse oppgaven bør du lese kapittel 23 i databladet om timeren TCA. I delkapittel 23.3.3.4.3 kan du lese om 
-hvordan timeren kan brukes til PWM, men for å forstå det bør du lese om hvordan timeren fungerer til vanlig. 
-Du kan se og velge hvilke porter som brukes i kapittel 17 om Port-multiplekseren.
-
-Dersom du ønsker en enda større utfordring kan du prøve å løse oppgaven uten å bruke MCC.

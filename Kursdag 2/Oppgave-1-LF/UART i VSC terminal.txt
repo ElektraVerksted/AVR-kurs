@@ -1,6 +1,0 @@
-For å kunnelese av i terminalen verdier for denne oppgaven trenger man 
-Extension 'Serial Monitor'. Denne lastes ned via extensions i VSC.
-
-En viktig ting for å få den til å lese av rett er å vite hva baud raten er og
-hvilken ingang den er koblet til. Dette settes i MCC under konfigurasjonen av 
-UART. 
