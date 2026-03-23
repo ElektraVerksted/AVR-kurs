@@ -8,7 +8,7 @@
 
 
     VIKTIG: For at bibliotekene skal fungere må du i MCC legge inn komponenten "I2C-Host" og gi den navnet
-    "I2C-Host" (Standardnavnet er I2C0_Host). I2C Host lib må være TWI0, og bryteren "Interrupt driven" må være på.
+    "I2C_Host" (Standardnavnet er I2C0_Host). I2C Host lib må være TWI0, og bryteren "Interrupt driven" må være på.
     Skru på interrupts for Read og Write, og husk å skru på globale interrupts.
 
 
