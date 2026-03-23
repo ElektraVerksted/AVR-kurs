@@ -38,9 +38,9 @@ static void (*IO_PB1_InterruptHandler)(void);
 static void (*IO_PB0_InterruptHandler)(void);
 static void (*IO_PA3_InterruptHandler)(void);
 static void (*IO_PA2_InterruptHandler)(void);
-static void (*SW1_InterruptHandler)(void);
-static void (*SW2_InterruptHandler)(void);
 static void (*SW3_InterruptHandler)(void);
+static void (*SW2_InterruptHandler)(void);
+static void (*SW1_InterruptHandler)(void);
 
 void PIN_MANAGER_Initialize()
 {
@@ -81,8 +81,8 @@ void PIN_MANAGER_Initialize()
     PORTC.PIN0CTRL = 0x0;
     PORTC.PIN1CTRL = 0x0;
     PORTC.PIN2CTRL = 0x0;
-    PORTC.PIN3CTRL = 0x0;
-    PORTC.PIN4CTRL = 0x0;
+    PORTC.PIN3CTRL = 0x80;
+    PORTC.PIN4CTRL = 0x80;
     PORTC.PIN5CTRL = 0x0;
     PORTC.PIN6CTRL = 0x0;
     PORTC.PIN7CTRL = 0x0;
@@ -90,14 +90,14 @@ void PIN_MANAGER_Initialize()
     PORTD.PIN1CTRL = 0x0;
     PORTD.PIN2CTRL = 0x0;
     PORTD.PIN3CTRL = 0x0;
-    PORTD.PIN4CTRL = 0x0;
+    PORTD.PIN4CTRL = 0x80;
     PORTD.PIN5CTRL = 0x0;
     PORTD.PIN6CTRL = 0x0;
     PORTD.PIN7CTRL = 0x0;
     PORTE.PIN0CTRL = 0x0;
-    PORTE.PIN1CTRL = 0x88;
-    PORTE.PIN2CTRL = 0x88;
-    PORTE.PIN3CTRL = 0x88;
+    PORTE.PIN1CTRL = 0x0;
+    PORTE.PIN2CTRL = 0x0;
+    PORTE.PIN3CTRL = 0x0;
     PORTE.PIN4CTRL = 0x0;
     PORTE.PIN5CTRL = 0x0;
     PORTE.PIN6CTRL = 0x0;
@@ -129,9 +129,9 @@ void PIN_MANAGER_Initialize()
     IO_PB0_SetInterruptHandler(IO_PB0_DefaultInterruptHandler);
     IO_PA3_SetInterruptHandler(IO_PA3_DefaultInterruptHandler);
     IO_PA2_SetInterruptHandler(IO_PA2_DefaultInterruptHandler);
-    SW1_SetInterruptHandler(SW1_DefaultInterruptHandler);
-    SW2_SetInterruptHandler(SW2_DefaultInterruptHandler);
     SW3_SetInterruptHandler(SW3_DefaultInterruptHandler);
+    SW2_SetInterruptHandler(SW2_DefaultInterruptHandler);
+    SW1_SetInterruptHandler(SW1_DefaultInterruptHandler);
 }
 
 /**
@@ -187,17 +187,17 @@ void IO_PA2_DefaultInterruptHandler(void)
     // or set custom function using IO_PA2_SetInterruptHandler()
 }
 /**
-  Allows selecting an interrupt handler for SW1 at application runtime
+  Allows selecting an interrupt handler for SW3 at application runtime
 */
-void SW1_SetInterruptHandler(void (* interruptHandler)(void)) 
+void SW3_SetInterruptHandler(void (* interruptHandler)(void)) 
 {
-    SW1_InterruptHandler = interruptHandler;
+    SW3_InterruptHandler = interruptHandler;
 }
 
-void SW1_DefaultInterruptHandler(void)
+void SW3_DefaultInterruptHandler(void)
 {
-    // add your SW1 interrupt custom code
-    // or set custom function using SW1_SetInterruptHandler()
+    // add your SW3 interrupt custom code
+    // or set custom function using SW3_SetInterruptHandler()
 }
 /**
   Allows selecting an interrupt handler for SW2 at application runtime
@@ -213,17 +213,17 @@ void SW2_DefaultInterruptHandler(void)
     // or set custom function using SW2_SetInterruptHandler()
 }
 /**
-  Allows selecting an interrupt handler for SW3 at application runtime
+  Allows selecting an interrupt handler for SW1 at application runtime
 */
-void SW3_SetInterruptHandler(void (* interruptHandler)(void)) 
+void SW1_SetInterruptHandler(void (* interruptHandler)(void)) 
 {
-    SW3_InterruptHandler = interruptHandler;
+    SW1_InterruptHandler = interruptHandler;
 }
 
-void SW3_DefaultInterruptHandler(void)
+void SW1_DefaultInterruptHandler(void)
 {
-    // add your SW3 interrupt custom code
-    // or set custom function using SW3_SetInterruptHandler()
+    // add your SW1 interrupt custom code
+    // or set custom function using SW1_SetInterruptHandler()
 }
 ISR(PORTA_PORT_vect)
 { 
@@ -257,31 +257,32 @@ ISR(PORTB_PORT_vect)
 
 ISR(PORTC_PORT_vect)
 { 
+    // Call the interrupt handler for the callback registered at runtime
+    if(VPORTC.INTFLAGS & PORT_INT3_bm)
+    {
+       SW3_InterruptHandler(); 
+    }
+    if(VPORTC.INTFLAGS & PORT_INT4_bm)
+    {
+       SW2_InterruptHandler(); 
+    }
     /* Clear interrupt flags */
     VPORTC.INTFLAGS = 0xff;
 }
 
 ISR(PORTD_PORT_vect)
 { 
+    // Call the interrupt handler for the callback registered at runtime
+    if(VPORTD.INTFLAGS & PORT_INT4_bm)
+    {
+       SW1_InterruptHandler(); 
+    }
     /* Clear interrupt flags */
     VPORTD.INTFLAGS = 0xff;
 }
 
 ISR(PORTE_PORT_vect)
 { 
-    // Call the interrupt handler for the callback registered at runtime
-    if(VPORTE.INTFLAGS & PORT_INT1_bm)
-    {
-       SW1_InterruptHandler(); 
-    }
-    if(VPORTE.INTFLAGS & PORT_INT2_bm)
-    {
-       SW2_InterruptHandler(); 
-    }
-    if(VPORTE.INTFLAGS & PORT_INT3_bm)
-    {
-       SW3_InterruptHandler(); 
-    }
     /* Clear interrupt flags */
     VPORTE.INTFLAGS = 0xff;
 }

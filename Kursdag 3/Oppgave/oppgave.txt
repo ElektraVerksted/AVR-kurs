@@ -13,8 +13,8 @@
 
 
     Om du blir ferdig med oppgaven kan du forsøke å koble touch-bryterne til mikrokontrolleren og vise på skjermen 
-    om de er trykket på eller ikke. Touch-bryterne er koblet til IO-expander 2 til venstre for OLED-skjermem og tilhørende 
-    pinner er markert SW1, SW2 og SW3. For enkelthetens skyld skal vi bare koble ledninger (bør ligge i settet) fra kontaktene
-    til tre porter på CNanoen. Ved siden av hver port på CNanoen er det pinner man kan koble ledere til, det kalles
-    omkoblingsområdet.  
+    om de er trykket på eller ikke. Touch-bryterne er både koblet rett på mikrokontrolleren og til IO-expander 2 til 
+    venstre for OLED-skjermem og tilhørende pinner er markert SW1, SW2 og SW3. For enkelthetens skyld skal vi bruke 
+    de som er koblet direkte på mikrokontrolleren. Hvis du åpner pinout til CNanoen under MPLAB fanen til venstre, 
+    kan du togle knappen på toppen til Mapping Diagram for å se hvor SW1-3 er koblet til kontrolleren.
 */

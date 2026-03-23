@@ -114,62 +114,62 @@
 #define IO_PA2_EnableInterruptForLowLevelSensing() do { PORTA.PIN2CTRL = (PORTA.PIN2CTRL & ~PORT_ISC_gm) | 0x5 ; } while(0)
 #define PA2_SetInterruptHandler IO_PA2_SetInterruptHandler
 
-//get/set SW1 aliases
-#define SW1_SetHigh() do { PORTE_OUTSET = 0x2; } while(0)
-#define SW1_SetLow() do { PORTE_OUTCLR = 0x2; } while(0)
-#define SW1_Toggle() do { PORTE_OUTTGL = 0x2; } while(0)
-#define SW1_GetValue() (VPORTE.IN & (0x1 << 1))
-#define SW1_SetDigitalInput() do { PORTE_DIRCLR = 0x2; } while(0)
-#define SW1_SetDigitalOutput() do { PORTE_DIRSET = 0x2; } while(0)
-#define SW1_SetPullUp() do { PORTE_PIN1CTRL  |= PORT_PULLUPEN_bm; } while(0)
-#define SW1_ResetPullUp() do { PORTE_PIN1CTRL  &= ~PORT_PULLUPEN_bm; } while(0)
-#define SW1_SetInverted() do { PORTE_PIN1CTRL  |= PORT_INVEN_bm; } while(0)
-#define SW1_ResetInverted() do { PORTE_PIN1CTRL  &= ~PORT_INVEN_bm; } while(0)
-#define SW1_DisableInterruptOnChange() do { PORTE.PIN1CTRL = (PORTE.PIN1CTRL & ~PORT_ISC_gm) | 0x0 ; } while(0)
-#define SW1_EnableInterruptForBothEdges() do { PORTE.PIN1CTRL = (PORTE.PIN1CTRL & ~PORT_ISC_gm) | 0x1 ; } while(0)
-#define SW1_EnableInterruptForRisingEdge() do { PORTE.PIN1CTRL = (PORTE.PIN1CTRL & ~PORT_ISC_gm) | 0x2 ; } while(0)
-#define SW1_EnableInterruptForFallingEdge() do { PORTE.PIN1CTRL = (PORTE.PIN1CTRL & ~PORT_ISC_gm) | 0x3 ; } while(0)
-#define SW1_DisableDigitalInputBuffer() do { PORTE.PIN1CTRL = (PORTE.PIN1CTRL & ~PORT_ISC_gm) | 0x4 ; } while(0)
-#define SW1_EnableInterruptForLowLevelSensing() do { PORTE.PIN1CTRL = (PORTE.PIN1CTRL & ~PORT_ISC_gm) | 0x5 ; } while(0)
-#define PE1_SetInterruptHandler SW1_SetInterruptHandler
+//get/set SW3 aliases
+#define SW3_SetHigh() do { PORTC_OUTSET = 0x8; } while(0)
+#define SW3_SetLow() do { PORTC_OUTCLR = 0x8; } while(0)
+#define SW3_Toggle() do { PORTC_OUTTGL = 0x8; } while(0)
+#define SW3_GetValue() (VPORTC.IN & (0x1 << 3))
+#define SW3_SetDigitalInput() do { PORTC_DIRCLR = 0x8; } while(0)
+#define SW3_SetDigitalOutput() do { PORTC_DIRSET = 0x8; } while(0)
+#define SW3_SetPullUp() do { PORTC_PIN3CTRL  |= PORT_PULLUPEN_bm; } while(0)
+#define SW3_ResetPullUp() do { PORTC_PIN3CTRL  &= ~PORT_PULLUPEN_bm; } while(0)
+#define SW3_SetInverted() do { PORTC_PIN3CTRL  |= PORT_INVEN_bm; } while(0)
+#define SW3_ResetInverted() do { PORTC_PIN3CTRL  &= ~PORT_INVEN_bm; } while(0)
+#define SW3_DisableInterruptOnChange() do { PORTC.PIN3CTRL = (PORTC.PIN3CTRL & ~PORT_ISC_gm) | 0x0 ; } while(0)
+#define SW3_EnableInterruptForBothEdges() do { PORTC.PIN3CTRL = (PORTC.PIN3CTRL & ~PORT_ISC_gm) | 0x1 ; } while(0)
+#define SW3_EnableInterruptForRisingEdge() do { PORTC.PIN3CTRL = (PORTC.PIN3CTRL & ~PORT_ISC_gm) | 0x2 ; } while(0)
+#define SW3_EnableInterruptForFallingEdge() do { PORTC.PIN3CTRL = (PORTC.PIN3CTRL & ~PORT_ISC_gm) | 0x3 ; } while(0)
+#define SW3_DisableDigitalInputBuffer() do { PORTC.PIN3CTRL = (PORTC.PIN3CTRL & ~PORT_ISC_gm) | 0x4 ; } while(0)
+#define SW3_EnableInterruptForLowLevelSensing() do { PORTC.PIN3CTRL = (PORTC.PIN3CTRL & ~PORT_ISC_gm) | 0x5 ; } while(0)
+#define PC3_SetInterruptHandler SW3_SetInterruptHandler
 
 //get/set SW2 aliases
-#define SW2_SetHigh() do { PORTE_OUTSET = 0x4; } while(0)
-#define SW2_SetLow() do { PORTE_OUTCLR = 0x4; } while(0)
-#define SW2_Toggle() do { PORTE_OUTTGL = 0x4; } while(0)
-#define SW2_GetValue() (VPORTE.IN & (0x1 << 2))
-#define SW2_SetDigitalInput() do { PORTE_DIRCLR = 0x4; } while(0)
-#define SW2_SetDigitalOutput() do { PORTE_DIRSET = 0x4; } while(0)
-#define SW2_SetPullUp() do { PORTE_PIN2CTRL  |= PORT_PULLUPEN_bm; } while(0)
-#define SW2_ResetPullUp() do { PORTE_PIN2CTRL  &= ~PORT_PULLUPEN_bm; } while(0)
-#define SW2_SetInverted() do { PORTE_PIN2CTRL  |= PORT_INVEN_bm; } while(0)
-#define SW2_ResetInverted() do { PORTE_PIN2CTRL  &= ~PORT_INVEN_bm; } while(0)
-#define SW2_DisableInterruptOnChange() do { PORTE.PIN2CTRL = (PORTE.PIN2CTRL & ~PORT_ISC_gm) | 0x0 ; } while(0)
-#define SW2_EnableInterruptForBothEdges() do { PORTE.PIN2CTRL = (PORTE.PIN2CTRL & ~PORT_ISC_gm) | 0x1 ; } while(0)
-#define SW2_EnableInterruptForRisingEdge() do { PORTE.PIN2CTRL = (PORTE.PIN2CTRL & ~PORT_ISC_gm) | 0x2 ; } while(0)
-#define SW2_EnableInterruptForFallingEdge() do { PORTE.PIN2CTRL = (PORTE.PIN2CTRL & ~PORT_ISC_gm) | 0x3 ; } while(0)
-#define SW2_DisableDigitalInputBuffer() do { PORTE.PIN2CTRL = (PORTE.PIN2CTRL & ~PORT_ISC_gm) | 0x4 ; } while(0)
-#define SW2_EnableInterruptForLowLevelSensing() do { PORTE.PIN2CTRL = (PORTE.PIN2CTRL & ~PORT_ISC_gm) | 0x5 ; } while(0)
-#define PE2_SetInterruptHandler SW2_SetInterruptHandler
+#define SW2_SetHigh() do { PORTC_OUTSET = 0x10; } while(0)
+#define SW2_SetLow() do { PORTC_OUTCLR = 0x10; } while(0)
+#define SW2_Toggle() do { PORTC_OUTTGL = 0x10; } while(0)
+#define SW2_GetValue() (VPORTC.IN & (0x1 << 4))
+#define SW2_SetDigitalInput() do { PORTC_DIRCLR = 0x10; } while(0)
+#define SW2_SetDigitalOutput() do { PORTC_DIRSET = 0x10; } while(0)
+#define SW2_SetPullUp() do { PORTC_PIN4CTRL  |= PORT_PULLUPEN_bm; } while(0)
+#define SW2_ResetPullUp() do { PORTC_PIN4CTRL  &= ~PORT_PULLUPEN_bm; } while(0)
+#define SW2_SetInverted() do { PORTC_PIN4CTRL  |= PORT_INVEN_bm; } while(0)
+#define SW2_ResetInverted() do { PORTC_PIN4CTRL  &= ~PORT_INVEN_bm; } while(0)
+#define SW2_DisableInterruptOnChange() do { PORTC.PIN4CTRL = (PORTC.PIN4CTRL & ~PORT_ISC_gm) | 0x0 ; } while(0)
+#define SW2_EnableInterruptForBothEdges() do { PORTC.PIN4CTRL = (PORTC.PIN4CTRL & ~PORT_ISC_gm) | 0x1 ; } while(0)
+#define SW2_EnableInterruptForRisingEdge() do { PORTC.PIN4CTRL = (PORTC.PIN4CTRL & ~PORT_ISC_gm) | 0x2 ; } while(0)
+#define SW2_EnableInterruptForFallingEdge() do { PORTC.PIN4CTRL = (PORTC.PIN4CTRL & ~PORT_ISC_gm) | 0x3 ; } while(0)
+#define SW2_DisableDigitalInputBuffer() do { PORTC.PIN4CTRL = (PORTC.PIN4CTRL & ~PORT_ISC_gm) | 0x4 ; } while(0)
+#define SW2_EnableInterruptForLowLevelSensing() do { PORTC.PIN4CTRL = (PORTC.PIN4CTRL & ~PORT_ISC_gm) | 0x5 ; } while(0)
+#define PC4_SetInterruptHandler SW2_SetInterruptHandler
 
-//get/set SW3 aliases
-#define SW3_SetHigh() do { PORTE_OUTSET = 0x8; } while(0)
-#define SW3_SetLow() do { PORTE_OUTCLR = 0x8; } while(0)
-#define SW3_Toggle() do { PORTE_OUTTGL = 0x8; } while(0)
-#define SW3_GetValue() (VPORTE.IN & (0x1 << 3))
-#define SW3_SetDigitalInput() do { PORTE_DIRCLR = 0x8; } while(0)
-#define SW3_SetDigitalOutput() do { PORTE_DIRSET = 0x8; } while(0)
-#define SW3_SetPullUp() do { PORTE_PIN3CTRL  |= PORT_PULLUPEN_bm; } while(0)
-#define SW3_ResetPullUp() do { PORTE_PIN3CTRL  &= ~PORT_PULLUPEN_bm; } while(0)
-#define SW3_SetInverted() do { PORTE_PIN3CTRL  |= PORT_INVEN_bm; } while(0)
-#define SW3_ResetInverted() do { PORTE_PIN3CTRL  &= ~PORT_INVEN_bm; } while(0)
-#define SW3_DisableInterruptOnChange() do { PORTE.PIN3CTRL = (PORTE.PIN3CTRL & ~PORT_ISC_gm) | 0x0 ; } while(0)
-#define SW3_EnableInterruptForBothEdges() do { PORTE.PIN3CTRL = (PORTE.PIN3CTRL & ~PORT_ISC_gm) | 0x1 ; } while(0)
-#define SW3_EnableInterruptForRisingEdge() do { PORTE.PIN3CTRL = (PORTE.PIN3CTRL & ~PORT_ISC_gm) | 0x2 ; } while(0)
-#define SW3_EnableInterruptForFallingEdge() do { PORTE.PIN3CTRL = (PORTE.PIN3CTRL & ~PORT_ISC_gm) | 0x3 ; } while(0)
-#define SW3_DisableDigitalInputBuffer() do { PORTE.PIN3CTRL = (PORTE.PIN3CTRL & ~PORT_ISC_gm) | 0x4 ; } while(0)
-#define SW3_EnableInterruptForLowLevelSensing() do { PORTE.PIN3CTRL = (PORTE.PIN3CTRL & ~PORT_ISC_gm) | 0x5 ; } while(0)
-#define PE3_SetInterruptHandler SW3_SetInterruptHandler
+//get/set SW1 aliases
+#define SW1_SetHigh() do { PORTD_OUTSET = 0x10; } while(0)
+#define SW1_SetLow() do { PORTD_OUTCLR = 0x10; } while(0)
+#define SW1_Toggle() do { PORTD_OUTTGL = 0x10; } while(0)
+#define SW1_GetValue() (VPORTD.IN & (0x1 << 4))
+#define SW1_SetDigitalInput() do { PORTD_DIRCLR = 0x10; } while(0)
+#define SW1_SetDigitalOutput() do { PORTD_DIRSET = 0x10; } while(0)
+#define SW1_SetPullUp() do { PORTD_PIN4CTRL  |= PORT_PULLUPEN_bm; } while(0)
+#define SW1_ResetPullUp() do { PORTD_PIN4CTRL  &= ~PORT_PULLUPEN_bm; } while(0)
+#define SW1_SetInverted() do { PORTD_PIN4CTRL  |= PORT_INVEN_bm; } while(0)
+#define SW1_ResetInverted() do { PORTD_PIN4CTRL  &= ~PORT_INVEN_bm; } while(0)
+#define SW1_DisableInterruptOnChange() do { PORTD.PIN4CTRL = (PORTD.PIN4CTRL & ~PORT_ISC_gm) | 0x0 ; } while(0)
+#define SW1_EnableInterruptForBothEdges() do { PORTD.PIN4CTRL = (PORTD.PIN4CTRL & ~PORT_ISC_gm) | 0x1 ; } while(0)
+#define SW1_EnableInterruptForRisingEdge() do { PORTD.PIN4CTRL = (PORTD.PIN4CTRL & ~PORT_ISC_gm) | 0x2 ; } while(0)
+#define SW1_EnableInterruptForFallingEdge() do { PORTD.PIN4CTRL = (PORTD.PIN4CTRL & ~PORT_ISC_gm) | 0x3 ; } while(0)
+#define SW1_DisableDigitalInputBuffer() do { PORTD.PIN4CTRL = (PORTD.PIN4CTRL & ~PORT_ISC_gm) | 0x4 ; } while(0)
+#define SW1_EnableInterruptForLowLevelSensing() do { PORTD.PIN4CTRL = (PORTD.PIN4CTRL & ~PORT_ISC_gm) | 0x5 ; } while(0)
+#define PD4_SetInterruptHandler SW1_SetInterruptHandler
 
 /**
  * @ingroup  pinsdriver
@@ -265,24 +265,24 @@ void IO_PA2_SetInterruptHandler(void (* interruptHandler)(void)) ;
 
 /**
  * @ingroup  pinsdriver
- * @brief Default Interrupt Handler for SW1 pin. 
- *        This is a predefined interrupt handler to be used together with the SW1_SetInterruptHandler() method.
- *        This handler is called every time the SW1 ISR is executed. 
+ * @brief Default Interrupt Handler for SW3 pin. 
+ *        This is a predefined interrupt handler to be used together with the SW3_SetInterruptHandler() method.
+ *        This handler is called every time the SW3 ISR is executed. 
  * @pre PIN_MANAGER_Initialize() has been called at least once
  * @param none
  * @return none
  */
-void SW1_DefaultInterruptHandler(void);
+void SW3_DefaultInterruptHandler(void);
 
 /**
  * @ingroup  pinsdriver
- * @brief Interrupt Handler Setter for SW1 pin input-sense-config functionality.
- *        Allows selecting an interrupt handler for SW1 at application runtime
+ * @brief Interrupt Handler Setter for SW3 pin input-sense-config functionality.
+ *        Allows selecting an interrupt handler for SW3 at application runtime
  * @pre PIN_MANAGER_Initialize() has been called at least once
  * @param InterruptHandler function pointer.
  * @return none
  */
-void SW1_SetInterruptHandler(void (* interruptHandler)(void)) ; 
+void SW3_SetInterruptHandler(void (* interruptHandler)(void)) ; 
 
 /**
  * @ingroup  pinsdriver
@@ -307,22 +307,22 @@ void SW2_SetInterruptHandler(void (* interruptHandler)(void)) ;
 
 /**
  * @ingroup  pinsdriver
- * @brief Default Interrupt Handler for SW3 pin. 
- *        This is a predefined interrupt handler to be used together with the SW3_SetInterruptHandler() method.
- *        This handler is called every time the SW3 ISR is executed. 
+ * @brief Default Interrupt Handler for SW1 pin. 
+ *        This is a predefined interrupt handler to be used together with the SW1_SetInterruptHandler() method.
+ *        This handler is called every time the SW1 ISR is executed. 
  * @pre PIN_MANAGER_Initialize() has been called at least once
  * @param none
  * @return none
  */
-void SW3_DefaultInterruptHandler(void);
+void SW1_DefaultInterruptHandler(void);
 
 /**
  * @ingroup  pinsdriver
- * @brief Interrupt Handler Setter for SW3 pin input-sense-config functionality.
- *        Allows selecting an interrupt handler for SW3 at application runtime
+ * @brief Interrupt Handler Setter for SW1 pin input-sense-config functionality.
+ *        Allows selecting an interrupt handler for SW1 at application runtime
  * @pre PIN_MANAGER_Initialize() has been called at least once
  * @param InterruptHandler function pointer.
  * @return none
  */
-void SW3_SetInterruptHandler(void (* interruptHandler)(void)) ; 
+void SW1_SetInterruptHandler(void (* interruptHandler)(void)) ; 
 #endif /* PINS_H_INCLUDED */
