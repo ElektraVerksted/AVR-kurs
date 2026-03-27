@@ -1,5 +1,7 @@
 /*
- * Denne filen inneholder fonten vi skal bruke for å skrive til OLED skjermen
+ * Fil:         font.h
+ * Kursdag:     3, Oppgave 1 (Løsningsforslag)
+ * Beskrivelse: Deklarasjon av ASCII-fontarray for SSD1306 OLED-skjerm.
  */
 
 #ifndef FONT_H

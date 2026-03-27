@@ -1,3 +1,9 @@
+/*
+ * Fil:         mcp9808.c
+ * Kursdag:     3, Oppgave 1
+ * Beskrivelse: Implementasjon av driver for MCP9808 temperatursensor over I2C.
+ */
+
 #include "mcp9808.h"
 #include "mcc_generated_files/system/system.h"
 #include <stdint.h>

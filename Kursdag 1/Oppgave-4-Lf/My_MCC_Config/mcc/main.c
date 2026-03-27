@@ -1,5 +1,7 @@
 /*
- * Dag 1 Oppgave 4 - Løsningsforslag
+ * Fil:         main.c
+ * Kursdag:     1, Oppgave 4 (Løsningsforslag)
+ * Beskrivelse: I denne oppgaven skal du styre en LED med en knapp ved hjelp av MCC-genererte drivere.
  */
 
 #include "mcc_generated_files/system/pins.h"

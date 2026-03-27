@@ -1,5 +1,7 @@
 /*
- * Dag 2 Oppgave 3 - Løsningsforslag
+ * Fil:         main.c
+ * Kursdag:     2, Oppgave 3 (Løsningsforslag)
+ * Beskrivelse: I denne oppgaven skal du blinke en LED med fast frekvens ved hjelp av TCA0 overflow-interrupt.
  */
 
 #include "mcc_generated_files/timer/tca0.h"

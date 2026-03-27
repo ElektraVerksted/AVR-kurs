@@ -1,8 +1,7 @@
-/**
- * @file main.c
- * @author husev
- * @date 2026-03-12
- * @brief Main function
+/*
+ * Fil:         main.c
+ * Kursdag:     1, Oppgave 2 (Løsningsforslag)
+ * Beskrivelse: I denne oppgaven skal du styre en LED med en knapp ved hjelp av GPIO-registre.
  */
 
 #define F_CPU 4000000UL
