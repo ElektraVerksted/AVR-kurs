@@ -5,11 +5,9 @@
  */
 
 #ifndef FONT_H
-#define	FONT_H
-
-// #include <xc.h>
+#define FONT_H
 
 // Extern forteller at arrayet er deklarert her, men definert og lagret i en annen .c-fil
 extern const unsigned char ASCII[][5];
 
-#endif	/* FONT_H */
+#endif /* FONT_H */

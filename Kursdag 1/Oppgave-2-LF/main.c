@@ -7,7 +7,8 @@
 #define F_CPU 4000000UL
 #include <avr/io.h>
 
-int main() {
+int main()
+{
     // Definer LED pin som utgang
     PORTB.DIRSET = PIN3_bm;
 
@@ -16,15 +17,18 @@ int main() {
 
     // Koble SW0 til PULLUP
     PORTB.PIN2CTRL |= PORT_PULLUPEN_bm;
-    
+
     // Skru av LED0 hvis knappen ikke er trykket ned, og skru på LED0 hvis knappen er trykket ned
-    while(1){
-        if (PORTB.IN & PIN2_bm){
+    while (1)
+    {
+        if (PORTB.IN & PIN2_bm)
+        {
             PORTB.OUTSET = PIN3_bm;
         }
-        else{
+        else
+        {
             PORTB.OUTCLR = PIN3_bm;
         }
     }
-    return 0; 
+    return 0;
 }

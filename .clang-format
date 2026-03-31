@@ -1,0 +1,54 @@
+---
+# options: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+# Use GNU style as the basis
+BasedOnStyle: GNU
+# Indentation settings: use spaces, not tabs, with a width of 4 spaces
+IndentWidth: 4
+UseTab: Never
+
+ColumnLimit: 120
+
+# Comment Formatting
+# Reflow comments to fit within the column limit
+ReflowComments: true
+# Align trailing comments consistently
+AlignTrailingComments: true
+
+# Macro Formatting
+# Ensure nice spacing for consecutive macros
+AlignConsecutiveMacros: AcrossEmptyLines
+
+# Ensure indents for macro #ifs 
+IndentPPDirectives: BeforeHash
+
+# Code formatting
+# Prefer uint8_t *ptr over uint8_t* ptr
+PointerAlignment: Right
+# Prefer uint8_t &ptr over uint8_t& ptr
+ReferenceAlignment: Right
+# Align bit fields after ":"
+AlignConsecutiveBitFields: AcrossEmptyLines
+
+# Function Declaration Formatting
+# Keep return type on the same line as function name and parameters
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+# Control spacing before parentheses in control statements, except for control macros
+SpaceBeforeParens: ControlStatementsExceptControlMacros
+# Use Allman style for breaking before braces
+BreakBeforeBraces: Allman
+# Break before binary operators
+BreakBeforeBinaryOperators: All
+
+# Code Structure Rules
+# Disallow short functions to be on a single line
+AllowShortFunctionsOnASingleLine: None
+# Prohibit 'if (x)' without braces; enforce 'if (x) { doStuff(); }'
+AllowShortIfStatementsOnASingleLine: false
+InsertBraces: true
+
+# File Formatting
+# Use Unix-style newlines (\n), not Windows-style (\r\n)
+UseCRLF: false
+# Ensure a newline at the end of files
+InsertNewlineAtEOF: true

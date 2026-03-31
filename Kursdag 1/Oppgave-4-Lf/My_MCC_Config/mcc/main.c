@@ -11,17 +11,17 @@ int main(void)
 {
     SYSTEM_Initialize();
 
-    while(1)
-    {   // Sjekk om knappen er trykket (1) eller ikke (0) 
-        if(SW0_GetValue())
+    while (1)
+    { // Sjekk om knappen er trykket (1) eller ikke (0)
+        if (SW0_GetValue())
         {
             // Om knappen er trykket, skru på LEDen
             LED_SetHigh();
-        } 
+        }
         else
         {
             // HVis knappen ikke er trykket, skru LEDen av
             LED_SetLow();
         }
-    }    
+    }
 }

@@ -14,13 +14,15 @@ int main(void)
 {
     SYSTEM_Initialize();
 
-    while(1)
+    while (1)
     {
         LED_SetHigh();
         _delay_ms(1000);
         LED_SetLow();
         _delay_ms(1000);
-        
-        // Alternativ løsning: LED_Toggle();
-    }    
+
+        // Alternativ løsning:
+        // LED_Toggle();
+        // _delay_ms(1000);
+    }
 }

@@ -12,7 +12,8 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
-void OVFCallback(){
+void OVFCallback()
+{
     LED_Toggle();
 }
 
@@ -21,8 +22,8 @@ int main(void)
     SYSTEM_Initialize();
 
     TCA0_OverflowCallbackRegister(OVFCallback);
-    
-    while (1) {
-    
+
+    while (1)
+    {
     }
 }

@@ -5,10 +5,8 @@
  */
 
 #ifndef BITMAP_H
-#define	BITMAP_H
-
-#include <xc.h> // include processor files - each processor file is guarded.  
+#define BITMAP_H
 
 extern const unsigned char MCHP[1024];
 
-#endif	/* BITMAP_H */
+#endif /* BITMAP_H */

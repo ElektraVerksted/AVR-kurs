@@ -14,26 +14,29 @@
 int main(void)
 {
     SYSTEM_Initialize();
-    
+
     ADC0_Enable();
     ADC0_ChannelSelect(ADC0_CHANNEL_AIN6);
 
     VREF.ADC0REF = 0x05; // VDD as ADC reference
 
-    while(1)
+    while (1)
     {
         ADC0_ConversionStart();
-        while(!ADC0_IsConversionDone()){
-
+        while (!ADC0_IsConversionDone())
+        {
         }
         adc_result_t resultat = ADC0_ConversionResultGet();
 
-        (void) printf("%d\r\n", resultat);
+        (void)printf("%d\r\n", resultat);
 
-        if(resultat > (adc_result_t)2048){
+        if (resultat > (adc_result_t)2048)
+        {
             LED_SetHigh();
-        }else {
+        }
+        else
+        {
             LED_SetLow();
         }
-    }    
+    }
 }
