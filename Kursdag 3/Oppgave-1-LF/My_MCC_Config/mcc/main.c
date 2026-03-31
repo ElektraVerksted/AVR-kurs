@@ -1,6 +1,6 @@
 /*
- * Fil:         main.c
- * Kursdag:     3, Oppgave 1 (Løsningsforslag)
+ * Fil: main.c
+ * Kursdag 3, Oppgave 1 (Løsningsforslag)
  * Beskrivelse: I denne oppgaven skal du vise temperatur og brytertilstand på en SSD1306 OLED-skjerm.
  */
 

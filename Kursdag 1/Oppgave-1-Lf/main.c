@@ -1,7 +1,7 @@
 /*
- * Fil:         main.c
- * Kursdag:     1, Oppgave 1 (Løsningsforslag)
- * Beskrivelse:  I denne oppgaven skal du få en LED på CNano-brettet til å blinke periodisk. LEDen er koblet til PB3.
+ * Fil: main.c
+ * Kursdag 1, Oppgave 1 (Løsningsforslag)
+ * Beskrivelse: I denne oppgaven skal du få en LED på CNano-brettet til å blinke periodisk. LEDen er koblet til PB3.
  * Oppgaven skal løses uten å bruke MCC.
  *
  * Hint: Dersom du definerer #define F_CPU xxxxxUL øverst i fila kan du bruke funksjonen _delay_ms().

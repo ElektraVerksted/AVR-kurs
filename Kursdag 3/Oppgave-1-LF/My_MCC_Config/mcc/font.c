@@ -1,6 +1,6 @@
 /*
- * Fil:         font.c
- * Kursdag:     3, Oppgave 1 (Løsningsforslag)
+ * Fil: font.c
+ * Kursdag 3, Oppgave 1 (Løsningsforslag)
  * Beskrivelse: ASCII-fontdata for tegning av tekst på SSD1306 OLED-skjerm.
  */
 

@@ -1,6 +1,6 @@
 /*
- * Fil:         main.c
- * Kursdag:     1, Oppgave 3 (Løsningsforslag)
+ * Fil: main.c
+ * Kursdag 1, Oppgave 3 (Løsningsforslag)
  * Beskrivelse: I denne oppgaven skal du blinke en LED periodisk ved hjelp av MCC-genererte drivere.
  */
 

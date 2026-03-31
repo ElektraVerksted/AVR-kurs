@@ -1,6 +1,6 @@
 /*
- * Fil:         mcp9808.c
- * Kursdag:     3, Oppgave 1
+ * Fil: mcp9808.c
+ * Kursdag 3, Oppgave 1
  * Beskrivelse: Implementasjon av driver for MCP9808 temperatursensor over I2C.
  */
 

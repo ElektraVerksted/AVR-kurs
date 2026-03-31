@@ -1,6 +1,6 @@
 /*
- * Fil:         bitmap.c
- * Kursdag:     3, Oppgave 1 (Løsningsforslag)
+ * Fil: bitmap.c
+ * Kursdag 3, Oppgave 1 (Løsningsforslag)
  * Beskrivelse: Microchip-logo lagret som bitmap for visning på SSD1306 OLED-skjerm.
  */
 

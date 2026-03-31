@@ -1,6 +1,6 @@
 /*
- * Fil:         mcp9808.h
- * Kursdag:     3, Oppgave 1
+ * Fil: mcp9808.h
+ * Kursdag 3, Oppgave 1
  * Beskrivelse: Deklarasjoner for MCP9808 temperatursensor driver.
  */
 

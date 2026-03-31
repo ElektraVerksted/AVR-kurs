@@ -1,6 +1,6 @@
 /*
- * Fil:         bitmap.h
- * Kursdag:     3, Oppgave 1 (Løsningsforslag)
+ * Fil: bitmap.h
+ * Kursdag 3, Oppgave 1 (Løsningsforslag)
  * Beskrivelse: Deklarasjon av Microchip-logo bitmap for SSD1306 OLED-skjerm.
  */
 

@@ -1,6 +1,6 @@
 /*
- * Fil:         ssd1306.h
- * Kursdag:     3, Oppgave 1
+ * Fil: ssd1306.h
+ * Kursdag 3, Oppgave 1
  * Beskrivelse: Deklarasjoner og konstanter for SSD1306 OLED-skjerm driver.
  */
 

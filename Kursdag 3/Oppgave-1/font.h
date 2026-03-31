@@ -1,6 +1,6 @@
 /*
- * Fil:         font.h
- * Kursdag:     3, Oppgave 1
+ * Fil: font.h
+ * Kursdag 3, Oppgave 1
  * Beskrivelse: Deklarasjon av ASCII-fontarray for SSD1306 OLED-skjerm.
  */
 

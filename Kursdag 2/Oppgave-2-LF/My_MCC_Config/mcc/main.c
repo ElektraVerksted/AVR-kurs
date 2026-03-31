@@ -1,6 +1,6 @@
 /*
- * Fil:         main.c
- * Kursdag:     2, Oppgave 2 (Løsningsforslag)
+ * Fil: main.c
+ * Kursdag 2, Oppgave 2 (Løsningsforslag)
  * Beskrivelse: I denne oppgaven skal du styre en RGB-LED med PWM ved hjelp av TCA0-timeren.
  */
 

@@ -1,6 +1,6 @@
 /*
- * Fil:         ssd1306.c
- * Kursdag:     3, Oppgave 1
+ * Fil: ssd1306.c
+ * Kursdag 3, Oppgave 1
  * Beskrivelse: Implementasjon av driver for SSD1306 OLED-skjerm over I2C.
  */
 

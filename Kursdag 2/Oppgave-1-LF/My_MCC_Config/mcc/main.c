@@ -1,6 +1,6 @@
 /*
- * Fil:         main.c
- * Kursdag:     2, Oppgave 1 (Løsningsforslag)
+ * Fil: main.c
+ * Kursdag 2, Oppgave 1 (Løsningsforslag)
  * Beskrivelse: I denne oppgaven skal du lese av et potensiometer via ADC og skriver resultatet over UART.
  */
 
