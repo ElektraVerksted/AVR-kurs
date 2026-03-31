@@ -1,5 +1,0 @@
-C:/Users/husev/AVR-kurs/Kursdag 2/Oppgave-1-LF/_build/test_1000000/default/CMakeFiles/test_1000000_default_default_XC8_assemblePreprocess.dir
-C:/Users/husev/AVR-kurs/Kursdag 2/Oppgave-1-LF/_build/test_1000000/default/CMakeFiles/test_1000000_default_default_XC8_compile.dir
-C:/Users/husev/AVR-kurs/Kursdag 2/Oppgave-1-LF/_build/test_1000000/default/CMakeFiles/test_1000000_default_image_iE5CF_UI.dir
-C:/Users/husev/AVR-kurs/Kursdag 2/Oppgave-1-LF/_build/test_1000000/default/CMakeFiles/edit_cache.dir
-C:/Users/husev/AVR-kurs/Kursdag 2/Oppgave-1-LF/_build/test_1000000/default/CMakeFiles/rebuild_cache.dir

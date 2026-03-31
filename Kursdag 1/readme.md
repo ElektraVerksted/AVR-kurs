@@ -1,0 +1,2 @@
+# AVR Kurs Dag 1
+På dag 1 av kurset skal vi gjennom litt basic manipulering av pinner på mikrokontrolleren. Vi starter med å skrive kode selv (bare-metal programmering) før vi går over på å bruke kodekonfigurator i de senere oppgavene. 

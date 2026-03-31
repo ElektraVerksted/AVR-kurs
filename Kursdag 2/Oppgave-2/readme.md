@@ -1,0 +1,52 @@
+# Dage 2 - Oppgave 2
+I oppgave 2 skal du få RGB-dioden på Curiosity Nano Explorer til å rullere gjennom fargehjulet. Merk: Den enslige RGB-dioden over LED-ringen. Med PWM styrer du styrken på lyset, og hvilken farge du får kommer an på hvor sterkt de tre ulike fargene lyser i forhold til hverandre.
+
+Tips: Det er lurt å forstå hvordan PWM fungerer i AVR128DB48 før du starter oppgaven. Om du ikke forstår det kan du lese kapittel 23.2.1 og 23.3.3.4.3, eller spørre en av kursholderne. 
+
+```
+#define F_CPU 4000000UL
+
+#include <avr/io.h>
+#include <util/delay.h>
+
+// Det kan være nyttig å lage en funksjon som oppdaterer duty-cyclen for deg. Du kan lage en funksjon for alle utgangene, 
+// eller en funksjon for hver
+void oppdaterPWM(/*Hvilke verdier bør du ta inn?*/)
+
+int main(void)
+{
+    SYSTEM_Initialize();
+
+    // Definer startverdier for R, G og B
+
+    /*   
+     * Duty-cycle er oftest målt i prosent. Andelen av tiden utgangen er høy, og dermed andelen av VMax som
+     * utgangen gir, er gitt ved (Compare-Verdi / Timer-Periode). Du vil derfor trenge perioden for 
+     * å regne ut hva Compare-verdien bør være
+     */
+    uint16_t periode = ?
+
+    while(1)
+    {   
+        /*
+         * Ruller gjennom ulike RGB-verider. Det er et par ulike måter å gjøre det på.
+         * Den letteste måten er kanskje slik
+         * 
+         * Trinn 1:
+         * R: 100% -> 0
+         * G: 0 -> 100%
+         * B: 0 -> 0
+         * 
+         * Trinn 2:
+         * R: 0 -> 0
+         * G: 100% -> 0
+         * B: 0 -> 100%
+         * 
+         * Trinn 3:
+         * R: 0 -> 100%
+         * G: 0 -> 0
+         * B: 100% -> 0
+         */
+    }    
+}
+```

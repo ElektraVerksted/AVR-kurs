@@ -1,0 +1,24 @@
+# Dag 1 - Oppgave 1
+I oppgave 1 skal du få en LED på CNano-brettet til å blinke periodisk. LEDen er koblet til PB3. Oppgaven skalløses uten å bruke MCC.
+ 
+ Hint: For å få mikrokontrolleren til å vente et antall millisekunder kan du benytte `_delay_ms()`. 
+ Om du sitter fast, les i databladet på registerne PORTn.DIR, PORTn.OUT og PORTn.OUTTGL.
+
+Opprett et prosjekt i vscode og kopier oppgaven inn i _\<prosjektmappe>/main.c_.
+
+
+```
+// Denne er nødvendig for _delay_ms(). Må defineres før delay.h inkluderes
+#define F_CPU 4000000UL 
+
+#include <avr/io.h>
+#include <avr/delay.h>
+
+int main(){
+    // Definer pinnen som en utgang
+
+    // Skru LEDen gjentagende av og på med en bestemt periode. 
+    
+    return 0;
+}
+```

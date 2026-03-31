@@ -1,8 +1,0 @@
-Les av posisjonen på potensiometeret nederst til høyre på Curiosity Nano Explorer kortet. Om potensiometeret
-er vridd under halvveis skal lyset være slått av, om det er over halvveis skal det være slått på. Dersom det er skrudd
-fullstendig til høyre skal lyset blinke.
-
-
-For å gjøre denne oppgaven bør du lese kapittel 33 i databladet, som handler om Analog-Digital-omformeren. 
-
-En nyttig ting å reflektere over: Hvilken rolle spiller VREF i ADCen? Hvordan kan den forandre avlesingene?

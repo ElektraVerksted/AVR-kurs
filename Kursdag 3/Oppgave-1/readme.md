@@ -1,0 +1,8 @@
+# Dag 3 - Oppgave 1
+Dette blir en større oppgave. Du skal hente temperaturen fra temperatursensoren på CNano Explorer-kortet, og vise den på OLED-skjermen, begge disse er I2C-enheter. Det er gitt drivere til både OLED-skjermen og temperatursensoren, henholdsvis SSD1306 og MCP9808. Les i headerfilene for hvilke funksjoner dere har tilgjengelig for hver enhet.
+
+Det kan være lurt å legge inn en kort forsinkelse mellom hver løkke, siden I2C-overføringen bruker litt tid.
+
+VIKTIG: For at bibliotekene skal fungere må du i MCC legge inn komponenten "I2C-Host" og gi den navnet "I2C_Host" (Standardnavnet er I2C0_Host). I2C Host lib må være TWI0, og bryteren "Interrupt driven" må være på. Skru på interrupts for Read og Write, og husk å skru på globale interrupts.
+
+Om du blir ferdig med oppgaven kan du forsøke å koble touch-bryterne til mikrokontrolleren og vise på skjermen om de er trykket på eller ikke. Touch-bryterne er både koblet rett på mikrokontrolleren og til IO-expander 2 til venstre for OLED-skjermem og tilhørende pinner er markert SW1, SW2 og SW3. For enkelthetens skyld skal vi bruke de som er koblet direkte på mikrokontrolleren. Hvis du åpner pinout til CNanoen under MPLAB fanen til venstre, kan du togle knappen på toppen til Mapping Diagram for å se hvor SW1-3 er koblet til kontrolleren.
