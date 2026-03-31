@@ -18,18 +18,23 @@ int main(void)
     ADC0_Enable();
     ADC0_ChannelSelect(ADC0_CHANNEL_AIN6);
 
-    VREF.ADC0REF = 0x05; // VDD as ADC reference
+    // Standard spenningsreferanse er 1.024V. Potensiometeret varierer fra 0-5V, så vi må sette VDD(5V) som spenningsreferanse
+    VREF.ADC0REF = VREF_REFSEL_VDD_gc; // VDD as ADC reference
 
     while (1)
     {
-        ADC0_ConversionStart();
+        // Vi starter en måling i ADCen
+        ADC0_ConversionStart(); 
+        // Så lenge ADCen måler gjør vi ingen ting
         while (!ADC0_IsConversionDone())
         {
         }
+
         adc_result_t resultat = ADC0_ConversionResultGet();
 
-        (void)printf("%d\r\n", resultat);
+        (void)printf("%d\r\n", resultat); // \r\n forteller datamaskinen at den skal starte på en ny linje
 
+        // I 12-biters modus gir ADCen et tall mellom 0 og 4096. Om det er over halvveis, skrur vi på lyset
         if (resultat > (adc_result_t)2048)
         {
             LED_SetHigh();
