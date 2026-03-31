@@ -74,11 +74,11 @@ void oppdaterSkjerm()
     char brytere[15];
     sprintf(brytere, "%s %s %s", SW1, SW2, SW3);
 
-    // Velger linje en, tømmer den og skriver temperaturen
+    // Velger linje en og skriver temperaturen
     SSD1306_SelectPage(0);
     SSD1306_WriteString(temperaturString);
 
-    // Velger linje to, tømmer den og skriver tekst
+    // Velger linje to og skriver bryterstatus
     SSD1306_SelectPage(1);
     SSD1306_WriteString(brytere);
 }
