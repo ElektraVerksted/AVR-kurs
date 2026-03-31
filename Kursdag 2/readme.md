@@ -1,2 +1,3 @@
 # AVR Kurs Dag 2
-TODO: Legg til generell info om dag 2
+I løpet av andre kursdag lærer dere om et par viktige periferienheter på CNanoen, nemlig Analog-Digital-omformeren(ADC) og timeren(TCA). Vi skal også se på hvordan Interrupts fungerer og hvordan de kan brukes til å skrive mer effektiv kode, og hvordan man kan ta i bruk CNanoens innebygde UART-bro for å sende data fra mikrokontrolleren til datamaskinen. 
+Oppgavene er tiltenkt at MCC skal brukes.
